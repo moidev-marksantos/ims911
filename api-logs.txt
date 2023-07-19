@@ -1,0 +1,892 @@
+
+07/06/2022 04:23:34 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/06/2022 04:24:57 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/06/2022 04:25:24 pm - LOGOUT: Responder Id - 1330 Fire Responder 01
+07/06/2022 04:39:10 pm - ACCEPT INCIDENT: Incident Id - 2293 - Accept by LED Responder 01
+07/06/2022 04:39:22 pm - UPLOAD FILE: Incident Id - 2293 - Filename - rn_image_picker_lib_temp_49a70801-04db-4700-8050-9b43196bbc22.jpg by LED Responder 01
+07/06/2022 04:39:23 pm - UPDATE INCIDENT: Incident Id - 2293 - In Progress by LED Responder 01
+07/06/2022 04:40:12 pm - UPLOAD FILE: Incident Id - 2293 - Filename - rn_image_picker_lib_temp_b5738ae3-902a-4291-b3b4-79e00cdb4fc0.jpg by LED Responder 01
+07/06/2022 04:40:16 pm - UPLOAD FILE: Incident Id - 2293 - Filename - rn_image_picker_lib_temp_5606a4c9-5ba5-458e-bfab-c4d6cb9ea828.jpg by LED Responder 01
+07/06/2022 04:40:17 pm - UPDATE INCIDENT: Incident Id - 2293 - In Progress by LED Responder 01
+07/06/2022 04:42:57 pm - UPLOAD FILE: Incident Id - 2293 - Filename - rn_image_picker_lib_temp_f0832d45-f3c0-4353-a59a-53f78ae636a8.mp4 by LED Responder 01
+07/06/2022 04:42:57 pm - UPDATE INCIDENT: Incident Id - 2293 - Completed by LED Responder 01
+07/06/2022 08:00:16 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/06/2022 08:00:29 pm - LOGIN: Responder Id - 1664 LED Responder 03
+07/06/2022 08:03:40 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/06/2022 08:05:07 pm - LOGIN: Responder Id - 1575 Fire Responder 02
+07/06/2022 08:38:43 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/06/2022 08:43:32 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/06/2022 08:43:51 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/06/2022 08:43:52 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/06/2022 08:43:56 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/06/2022 08:44:46 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/06/2022 08:45:35 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/06/2022 09:13:26 pm - UPDATE INCIDENT: Incident Id - 1862 - In Progress by LED Responder 01
+07/06/2022 09:13:29 pm - UPDATE INCIDENT: Incident Id - 2282 - In Progress by Fire Responder 01
+07/06/2022 09:13:41 pm - UPDATE INCIDENT: Incident Id - 1862 - Completed by LED Responder 01
+07/06/2022 09:13:41 pm - UPDATE INCIDENT: Incident Id - 2282 - Completed by Fire Responder 01
+07/06/2022 09:13:53 pm - UPDATE INCIDENT: Incident Id - 1866 - Completed by Fire Responder 01
+07/06/2022 09:13:55 pm - UPDATE INCIDENT: Incident Id - 1860 - Completed by LED Responder 01
+07/07/2022 09:11:28 am - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+07/07/2022 09:11:48 am - LOGIN: Responder Id - 1331 LED Responder 01
+07/07/2022 10:20:24 am - LOGIN: Responder Id - 1330 Fire Responder 01
+07/07/2022 10:57:36 am - LOGIN: Responder Id - 1575 Fire Responder 02
+07/07/2022 12:19:55 pm - ACCEPT INCIDENT: Incident Id - 2318 - Accept by Fire Responder 02
+07/07/2022 02:30:04 pm - ACCEPT INCIDENT: Incident Id - 2320 - Accept by Fire Responder 02
+07/07/2022 02:33:10 pm - UPDATE INCIDENT: Incident Id - 2320 - In Progress by Fire Responder 02
+07/07/2022 02:34:36 pm - UPDATE INCIDENT: Incident Id - 2320 - In Progress by LED Responder 01
+07/07/2022 02:35:46 pm - UPLOAD FILE: Incident Id - 2320 - Filename - rn_image_picker_lib_temp_cf18ca51-cc97-42bd-b92f-4ed8df6f80ed.jpg by Public Safety Responder 02
+07/07/2022 02:35:47 pm - UPDATE INCIDENT: Incident Id - 2320 - In Progress by Public Safety Responder 02
+07/07/2022 02:36:59 pm - UPDATE INCIDENT: Incident Id - 2320 - Completed by Fire Responder 02
+07/07/2022 02:37:20 pm - UPDATE INCIDENT: Incident Id - 2320 - Completed by Public Safety Responder 02
+07/07/2022 02:37:48 pm - UPDATE INCIDENT: Incident Id - 2320 - Completed by LED Responder 01
+07/07/2022 02:40:25 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/07/2022 02:41:11 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/07/2022 02:44:45 pm - ACCEPT INCIDENT: Incident Id - 2331 - Accept by LED Responder 01
+07/07/2022 02:45:17 pm - UPDATE INCIDENT: Incident Id - 2331 - In Progress by LED Responder 01
+07/07/2022 02:47:42 pm - UPDATE INCIDENT: Incident Id - 2331 - In Progress by LED Responder 01
+07/07/2022 02:48:06 pm - UPDATE INCIDENT: Incident Id - 2331 - Completed by LED Responder 01
+07/07/2022 02:52:47 pm - ACCEPT INCIDENT: Incident Id - 2337 - Accept by Public Safety Responder 02
+07/07/2022 02:53:00 pm - UPDATE INCIDENT: Incident Id - 2337 - In Progress by Public Safety Responder 02
+07/07/2022 02:53:57 pm - UPDATE INCIDENT: Incident Id - 2337 - In Progress by Public Safety Responder 02
+07/07/2022 02:54:53 pm - UPDATE INCIDENT: Incident Id - 1582 - Completed by Public Safety Responder 02
+07/07/2022 03:01:16 pm - ACCEPT INCIDENT: Incident Id - 1864 - Accept by Fire Responder 02
+07/07/2022 03:01:28 pm - UPDATE INCIDENT: Incident Id - 1864 - Completed by Fire Responder 02
+07/07/2022 03:01:29 pm - UPDATE INCIDENT: Incident Id - 2337 - Completed by LED Responder 01
+07/07/2022 03:01:30 pm - UPDATE INCIDENT: Incident Id - 2337 - Completed by Public Safety Responder 02
+07/07/2022 03:01:44 pm - UPDATE INCIDENT: Incident Id - 2318 - Completed by Fire Responder 02
+07/07/2022 03:17:26 pm - ACCEPT INCIDENT: Incident Id - 2318 - Accept by Fire Responder 02
+07/07/2022 03:17:28 pm - UPDATE INCIDENT: Incident Id - 2318 - Completed by Fire Responder 02
+07/07/2022 06:14:41 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/07/2022 06:14:56 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/08/2022 09:00:32 am - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/08/2022 09:01:59 am - LOGOUT: Responder Id - 1664 LED Responder 03
+07/08/2022 09:03:54 am - LOGOUT: Responder Id - 1575 Fire Responder 02
+07/08/2022 09:05:27 am - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/08/2022 09:07:02 am - LOGOUT: Responder Id - 1584 LED Responder 02
+07/08/2022 09:09:18 am - LOGOUT: Responder Id - 1660 Fire Responder 03
+07/08/2022 09:13:04 am - LOGIN: Responder Id - 1584 LED Responder 02
+07/08/2022 09:13:50 am - LOGIN: Responder Id - 1664 LED Responder 03
+07/08/2022 09:14:25 am - LOGIN: Responder Id - 1330 Fire Responder 01
+07/08/2022 09:14:57 am - ACCEPT INCIDENT: Incident Id - 2350 - Accept by LED Responder 03
+07/08/2022 09:15:12 am - UPLOAD FILE: Incident Id - 2350 - Filename - rn_image_picker_lib_temp_794c721b-603c-42f3-98b6-fc3809b0d203.jpg by LED Responder 03
+07/08/2022 09:15:12 am - UPDATE INCIDENT: Incident Id - 2350 - Completed by LED Responder 03
+07/08/2022 09:15:35 am - LOGIN: Responder Id - 1575 Fire Responder 02
+07/08/2022 09:16:22 am - LOGIN: Responder Id - 1660 Fire Responder 03
+07/08/2022 09:18:07 am - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/08/2022 09:18:40 am - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/08/2022 09:19:17 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/08/2022 09:20:09 am - ACCEPT INCIDENT: Incident Id - 2357 - Accept by Fire Responder 01
+07/08/2022 09:22:26 am - UPLOAD FILE: Incident Id - 2357 - Filename - rn_image_picker_lib_temp_48c94074-e597-4557-bc46-d532f987a97c.jpg by Fire Responder 01
+07/08/2022 09:22:27 am - UPDATE INCIDENT: Incident Id - 2357 - Completed by Fire Responder 01
+07/08/2022 09:38:48 am - ACCEPT INCIDENT: Incident Id - 2363 - Accept by LED Responder 03
+07/08/2022 09:39:22 am - UPLOAD FILE: Incident Id - 2363 - Filename - rn_image_picker_lib_temp_2409c17c-65ab-4276-a39a-36f5d4a6ebc3.jpg by LED Responder 03
+07/08/2022 09:39:22 am - UPLOAD FILE: Incident Id - 2363 - Filename - rn_image_picker_lib_temp_dfdf9d65-25aa-4ed7-a1d5-36f4bcbbedb4.jpg by LED Responder 03
+07/08/2022 09:39:22 am - UPLOAD FILE: Incident Id - 2363 - Filename - rn_image_picker_lib_temp_7a0e81d2-5949-4f7a-a365-9eabd916a3ef.jpg by LED Responder 03
+07/08/2022 09:39:22 am - UPDATE INCIDENT: Incident Id - 2363 - Completed by LED Responder 03
+07/08/2022 09:39:56 am - ACCEPT INCIDENT: Incident Id - 2363 - Accept by LED Responder 01
+07/08/2022 09:40:11 am - UPLOAD FILE: Incident Id - 2363 - Filename - rn_image_picker_lib_temp_f7f89366-55eb-4559-ba4d-7f16f6e48994.jpg by LED Responder 01
+07/08/2022 09:40:12 am - UPDATE INCIDENT: Incident Id - 2363 - In Progress by LED Responder 01
+07/08/2022 09:59:09 am - LOGOUT: Responder Id - 1331 LED Responder 01
+07/08/2022 09:59:58 am - LOGIN: Responder Id - 1331 LED Responder 01
+07/08/2022 10:04:10 am - ACCEPT INCIDENT: Incident Id - 2363 - Accept by LED Responder 02
+07/08/2022 10:04:54 am - UPLOAD FILE: Incident Id - 2363 - Filename - rn_image_picker_lib_temp_5b89d2b2-59a4-4421-ad89-97920f11bd03.jpg by LED Responder 02
+07/08/2022 10:04:54 am - UPDATE INCIDENT: Incident Id - 2363 - Completed by LED Responder 02
+07/08/2022 10:05:10 am - ACCEPT INCIDENT: Incident Id - 2381 - Accept by LED Responder 02
+07/08/2022 10:05:34 am - UPLOAD FILE: Incident Id - 2381 - Filename - rn_image_picker_lib_temp_72d345b8-97c6-4dad-b596-fa5493a5582f.jpg by LED Responder 02
+07/08/2022 10:05:35 am - UPDATE INCIDENT: Incident Id - 2381 - In Progress by LED Responder 02
+07/08/2022 10:10:05 am - ACCEPT INCIDENT: Incident Id - 2392 - Accept by LED Responder 02
+07/08/2022 10:10:28 am - UPLOAD FILE: Incident Id - 2392 - Filename - rn_image_picker_lib_temp_831388a1-8bf4-4057-83b5-8309697e3ceb.jpg by LED Responder 02
+07/08/2022 10:10:28 am - UPDATE INCIDENT: Incident Id - 2392 - Completed by LED Responder 02
+07/08/2022 10:13:02 am - ACCEPT INCIDENT: Incident Id - 2399 - Accept by LED Responder 02
+07/08/2022 10:13:16 am - UPLOAD FILE: Incident Id - 2399 - Filename - rn_image_picker_lib_temp_22a43202-9943-47ba-9343-093e0cfea277.jpg by LED Responder 02
+07/08/2022 10:13:17 am - UPDATE INCIDENT: Incident Id - 2399 - Completed by LED Responder 02
+07/08/2022 10:24:14 am - ACCEPT INCIDENT: Incident Id - 2408 - Accept by Fire Responder 01
+07/08/2022 10:24:20 am - UPDATE INCIDENT: Incident Id - 2408 - Completed by Fire Responder 01
+07/08/2022 10:25:53 am - ACCEPT INCIDENT: Incident Id - 2412 - Accept by Fire Responder 02
+07/08/2022 10:25:59 am - UPDATE INCIDENT: Incident Id - 2412 - Completed by Fire Responder 02
+07/08/2022 10:27:01 am - ACCEPT INCIDENT: Incident Id - 2406 - Accept by Public Safety Responder 03
+07/08/2022 10:27:04 am - UPDATE INCIDENT: Incident Id - 2406 - Completed by Public Safety Responder 03
+07/08/2022 10:29:02 am - ACCEPT INCIDENT: Incident Id - 2418 - Accept by Public Safety Responder 03
+07/08/2022 10:29:18 am - UPLOAD FILE: Incident Id - 2418 - Filename - rn_image_picker_lib_temp_b41a520e-5b20-4c8b-822b-c96490bc9c43.jpg by Public Safety Responder 03
+07/08/2022 10:29:19 am - UPDATE INCIDENT: Incident Id - 2418 - In Progress by Public Safety Responder 03
+07/08/2022 10:35:14 am - ACCEPT INCIDENT: Incident Id - 2425 - Accept by Public Safety Responder 01
+07/08/2022 10:35:17 am - ACCEPT INCIDENT: Incident Id - 2425 - Accept by Public Safety Responder 02
+07/08/2022 10:35:18 am - ACCEPT INCIDENT: Incident Id - 2425 - Accept by Public Safety Responder 03
+07/08/2022 10:35:24 am - UPDATE INCIDENT: Incident Id - 2425 - Completed by Public Safety Responder 03
+07/08/2022 10:35:26 am - UPDATE INCIDENT: Incident Id - 2425 - In Progress by Public Safety Responder 02
+07/08/2022 10:35:29 am - UPDATE INCIDENT: Incident Id - 2425 - In Progress by Public Safety Responder 01
+07/08/2022 10:36:36 am - ACCEPT INCIDENT: Incident Id - 2432 - Accept by Public Safety Responder 02
+07/08/2022 10:36:40 am - UPDATE INCIDENT: Incident Id - 2432 - Completed by Public Safety Responder 02
+07/08/2022 10:37:12 am - UPDATE INCIDENT: Incident Id - 2381 - Completed by LED Responder 02
+07/08/2022 10:38:23 am - ACCEPT INCIDENT: Incident Id - 2432 - Accept by Public Safety Responder 01
+07/08/2022 10:42:52 am - ACCEPT INCIDENT: Incident Id - 2438 - Accept by Public Safety Responder 01
+07/08/2022 10:42:56 am - ACCEPT INCIDENT: Incident Id - 2432 - Accept by Public Safety Responder 03
+07/08/2022 10:43:09 am - UPLOAD FILE: Incident Id - 2438 - Filename - rn_image_picker_lib_temp_b9ef063b-8fc9-486b-b31e-ce8ed5d081a5.jpg by Public Safety Responder 01
+07/08/2022 10:43:10 am - UPDATE INCIDENT: Incident Id - 2438 - In Progress by Public Safety Responder 01
+07/08/2022 10:43:21 am - UPLOAD FILE: Incident Id - 2432 - Filename - rn_image_picker_lib_temp_d75cf30c-3854-4015-82f9-a2f89622c40c.jpg by Public Safety Responder 03
+07/08/2022 10:43:21 am - UPDATE INCIDENT: Incident Id - 2432 - In Progress by Public Safety Responder 03
+07/08/2022 10:43:34 am - UPDATE INCIDENT: Incident Id - 2438 - Completed by Public Safety Responder 03
+07/08/2022 10:43:46 am - UPDATE INCIDENT: Incident Id - 2432 - Completed by Public Safety Responder 03
+07/08/2022 10:43:58 am - UPDATE INCIDENT: Incident Id - 2425 - Completed by Public Safety Responder 03
+07/08/2022 10:44:07 am - UPDATE INCIDENT: Incident Id - 2418 - Completed by Public Safety Responder 03
+07/08/2022 10:44:14 am - UPDATE INCIDENT: Incident Id - 2349 - Completed by Public Safety Responder 03
+07/08/2022 10:49:23 am - LOGOUT: Responder Id - 1331 LED Responder 01
+07/08/2022 10:50:12 am - ACCEPT INCIDENT: Incident Id - 2455 - Accept by Fire Responder 02
+07/08/2022 10:50:19 am - LOGIN: Responder Id - 1331 LED Responder 01
+07/08/2022 10:50:27 am - UPLOAD FILE: Incident Id - 2455 - Filename - rn_image_picker_lib_temp_0db0c2b0-3d9d-4d3f-bbef-c107fe2d420b.jpg by Fire Responder 02
+07/08/2022 10:50:27 am - UPDATE INCIDENT: Incident Id - 2455 - Completed by Fire Responder 02
+07/08/2022 10:51:23 am - UPDATE INCIDENT: Incident Id - 2399 - Completed by LED Responder 01
+07/08/2022 10:54:03 am - ACCEPT INCIDENT: Incident Id - 2463 - Accept by Public Safety Responder 01
+07/08/2022 10:54:23 am - UPDATE INCIDENT: Incident Id - 2463 - Completed by Public Safety Responder 01
+07/08/2022 10:56:12 am - ACCEPT INCIDENT: Incident Id - 2467 - Accept by LED Responder 02
+07/08/2022 10:56:51 am - UPDATE INCIDENT: Incident Id - 2467 - Completed by LED Responder 02
+07/08/2022 10:59:30 am - ACCEPT INCIDENT: Incident Id - 2467 - Accept by LED Responder 01
+07/08/2022 11:02:14 am - UPLOAD FILE: Incident Id - 2467 - Filename - rn_image_picker_lib_temp_9960aa29-80ec-44b8-a00a-72f62a6ba284.jpg by LED Responder 01
+07/08/2022 11:02:14 am - UPLOAD FILE: Incident Id - 2467 - Filename - rn_image_picker_lib_temp_c1c25e27-12cb-4301-9b2a-ace253ab8d05.jpg by LED Responder 01
+07/08/2022 11:02:15 am - UPDATE INCIDENT: Incident Id - 2467 - In Progress by LED Responder 01
+07/08/2022 11:04:38 am - ACCEPT INCIDENT: Incident Id - 2478 - Accept by Public Safety Responder 02
+07/08/2022 11:04:58 am - UPLOAD FILE: Incident Id - 2478 - Filename - rn_image_picker_lib_temp_2b1575fa-0a6c-4c49-8de2-e2b3d6539a89.jpg by Public Safety Responder 02
+07/08/2022 11:04:59 am - UPDATE INCIDENT: Incident Id - 2478 - Completed by Public Safety Responder 02
+07/08/2022 11:12:21 am - ACCEPT INCIDENT: Incident Id - 2484 - Accept by LED Responder 02
+07/08/2022 11:22:00 am - UPDATE INCIDENT: Incident Id - 2486 - In Progress by LED Responder 02
+07/08/2022 11:22:44 am - UPLOAD FILE: Incident Id - 2486 - Filename - rn_image_picker_lib_temp_fc8d1e4d-d212-4ee8-821d-15806b3926ff.jpg by LED Responder 03
+07/08/2022 11:22:45 am - UPDATE INCIDENT: Incident Id - 2486 - In Progress by LED Responder 03
+07/08/2022 11:24:16 am - LOGOUT: Responder Id - 1664 LED Responder 03
+07/08/2022 11:30:27 am - UPLOAD FILE: Incident Id - 2486 - Filename - rn_image_picker_lib_temp_4b12c361-91e3-479a-bda2-628084776019.jpg by LED Responder 02
+07/08/2022 11:30:27 am - UPDATE INCIDENT: Incident Id - 2486 - In Progress by LED Responder 02
+07/08/2022 11:31:12 am - UPLOAD FILE: Incident Id - 2486 - Filename - rn_image_picker_lib_temp_0f82176c-bb07-45a0-a7b5-5b23990c4e44.jpg by LED Responder 02
+07/08/2022 11:31:13 am - UPDATE INCIDENT: Incident Id - 2486 - In Progress by LED Responder 02
+07/08/2022 11:34:10 am - ACCEPT INCIDENT: Incident Id - 2501 - Accept by Public Safety Responder 01
+07/08/2022 11:35:11 am - UPDATE INCIDENT: Incident Id - 2501 - In Progress by Public Safety Responder 01
+07/08/2022 11:36:29 am - UPDATE INCIDENT: Incident Id - 2501 - In Progress by Public Safety Responder 02
+07/08/2022 11:36:36 am - UPLOAD FILE: Incident Id - 2501 - Filename - rn_image_picker_lib_temp_d44bde3b-f209-47df-af28-f821d9a07439.jpg by Public Safety Responder 01
+07/08/2022 11:36:36 am - UPDATE INCIDENT: Incident Id - 2501 - In Progress by Public Safety Responder 01
+07/08/2022 11:37:56 am - UPDATE INCIDENT: Incident Id - 2501 - Completed by Public Safety Responder 01
+07/08/2022 11:38:01 am - UPDATE INCIDENT: Incident Id - 2501 - Completed by Public Safety Responder 02
+07/08/2022 11:54:16 am - UPLOAD FILE: Incident Id - 2512 - Filename - rn_image_picker_lib_temp_405052b5-2756-456f-9522-27a32888477f.jpg by Fire Responder 02
+07/08/2022 11:54:16 am - UPDATE INCIDENT: Incident Id - 2512 - Completed by Fire Responder 02
+07/08/2022 12:05:51 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/08/2022 12:05:56 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/08/2022 12:06:03 pm - LOGOUT: Responder Id - 1575 Fire Responder 02
+07/08/2022 12:06:10 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/08/2022 12:06:17 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+07/08/2022 12:06:31 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+07/08/2022 12:06:40 pm - LOGOUT: Responder Id - 1330 Fire Responder 01
+07/08/2022 12:07:05 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/08/2022 12:44:49 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/08/2022 12:46:12 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/08/2022 12:49:10 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/08/2022 12:51:06 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/08/2022 01:14:02 pm - UPLOAD FILE: Incident Id - 2512 - Filename - rn_image_picker_lib_temp_d37be4a5-8604-45f0-9f2d-5875c1832a5d.jpg by Fire Responder 03
+07/08/2022 01:14:03 pm - UPDATE INCIDENT: Incident Id - 2512 - Completed by Fire Responder 03
+07/08/2022 01:42:31 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/08/2022 01:42:33 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+07/08/2022 01:42:35 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/08/2022 01:42:37 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/08/2022 01:57:42 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/08/2022 02:01:51 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/08/2022 02:02:07 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/08/2022 02:24:33 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/08/2022 02:30:27 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/08/2022 02:58:47 pm - LOGIN: Responder Id - 1575 Fire Responder 02
+07/08/2022 03:00:28 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/08/2022 03:02:53 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/08/2022 03:06:28 pm - LOGOUT: Responder Id - 1575 Fire Responder 02
+07/08/2022 03:12:09 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/08/2022 03:12:29 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/08/2022 03:13:31 pm - LOGIN: Responder Id - 1575 Fire Responder 02
+07/08/2022 03:15:10 pm - LOGIN: Responder Id - 1664 LED Responder 03
+07/08/2022 03:17:24 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/08/2022 03:28:50 pm - ACCEPT INCIDENT: Incident Id - 2522 - Accept by LED Responder 01
+07/08/2022 03:39:14 pm - ACCEPT INCIDENT: Incident Id - 2521 - Accept by LED Responder 01
+07/08/2022 03:43:20 pm - ACCEPT INCIDENT: Incident Id - 2525 - Accept by Public Safety Responder 01
+07/08/2022 05:05:43 pm - UPDATE INCIDENT: Incident Id - 2525 - In Progress by Fire Responder 02
+07/08/2022 05:06:07 pm - UPDATE INCIDENT: Incident Id - 2525 - In Progress by Fire Responder 02
+07/08/2022 05:06:20 pm - UPDATE INCIDENT: Incident Id - 2525 - Completed by Fire Responder 02
+07/08/2022 05:06:43 pm - UPDATE INCIDENT: Incident Id - 2525 - In Progress by Fire Responder 02
+07/08/2022 05:39:10 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/08/2022 05:48:15 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/28/2022 02:19:29 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/28/2022 02:20:57 pm - UPDATE INCIDENT: Incident Id - 2525 - In Progress by Fire Responder 01
+07/28/2022 02:23:32 pm - ACCEPT INCIDENT: Incident Id - 2536 - Accept by Fire Responder 01
+07/28/2022 02:28:04 pm - ACCEPT INCIDENT: Incident Id - 2539 - Accept by Fire Responder 01
+07/28/2022 02:28:16 pm - UPDATE INCIDENT: Incident Id - 2539 - In Progress by Fire Responder 01
+07/28/2022 02:42:49 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/28/2022 02:45:55 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/28/2022 03:32:40 pm - LOGOUT: Responder Id - 1330 Fire Responder 01
+07/28/2022 03:37:16 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/28/2022 03:39:47 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/28/2022 04:01:28 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/28/2022 04:33:34 pm - ACCEPT INCIDENT: Incident Id - 2542 - Accept by LED Responder 03
+07/28/2022 04:33:53 pm - UPDATE INCIDENT: Incident Id - 2542 - In Progress by LED Responder 03
+07/28/2022 04:34:04 pm - LOGOUT: Responder Id - 1664 LED Responder 03
+07/29/2022 09:33:25 am - LOGIN: Responder Id - 1331 LED Responder 01
+07/29/2022 09:34:27 am - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 09:36:28 am - LOGIN: Responder Id - 1330 Fire Responder 01
+07/29/2022 09:36:34 am - ACCEPT INCIDENT: Incident Id - 2546 - Accept by Fire Responder 01
+07/29/2022 09:46:18 am - LOGIN: Responder Id - 1584 LED Responder 02
+07/29/2022 09:47:17 am - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 09:51:12 am - LOGIN: Responder Id - 1664 LED Responder 03
+07/29/2022 09:52:28 am - LOGIN: Responder Id - 1660 Fire Responder 03
+07/29/2022 09:52:35 am - ACCEPT INCIDENT: Incident Id - 2538 - Accept by Fire Responder 03
+07/29/2022 09:57:56 am - LOGIN: Responder Id - 1575 Fire Responder 02
+07/29/2022 10:00:36 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 10:57:21 am - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 10:59:14 am - LOGIN: Responder Id - 1660 Fire Responder 03
+07/29/2022 11:02:12 am - LOGOUT: Responder Id - 1575 Fire Responder 02
+07/29/2022 11:02:44 am - LOGIN: Responder Id - 1575 Fire Responder 02
+07/29/2022 11:03:10 am - LOGOUT: Responder Id - 1330 Fire Responder 01
+07/29/2022 11:04:06 am - LOGIN: Responder Id - 1330 Fire Responder 01
+07/29/2022 11:10:45 am - ACCEPT INCIDENT: Incident Id - 2549 - Accept by Fire Responder 02
+07/29/2022 11:16:13 am - ACCEPT INCIDENT: Incident Id - 2552 - Accept by Fire Responder 03
+07/29/2022 11:16:38 am - UPDATE INCIDENT: Incident Id - 2552 - In Progress by Fire Responder 03
+07/29/2022 11:19:02 am - LOGIN: Responder Id - 1330 Fire Responder 01
+07/29/2022 11:24:42 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 11:34:33 am - ACCEPT INCIDENT: Incident Id - 2558 - Accept by Fire Responder 01
+07/29/2022 11:34:53 am - UPDATE INCIDENT: Incident Id - 2558 - Completed by Fire Responder 01
+07/29/2022 11:37:33 am - ACCEPT INCIDENT: Incident Id - 2561 - Accept by Fire Responder 02
+07/29/2022 11:38:19 am - UPLOAD FILE: Incident Id - 2561 - Filename - rn_image_picker_lib_temp_adb3e6ba-e2d4-4b10-8a18-c4d45a30f540.jpg by Fire Responder 02
+07/29/2022 11:38:19 am - UPDATE INCIDENT: Incident Id - 2561 - In Progress by Fire Responder 02
+07/29/2022 11:39:50 am - UPDATE INCIDENT: Incident Id - 2561 - Completed by Fire Responder 02
+07/29/2022 11:41:58 am - ACCEPT INCIDENT: Incident Id - 2568 - Accept by Fire Responder 03
+07/29/2022 11:42:29 am - UPLOAD FILE: Incident Id - 2568 - Filename - rn_image_picker_lib_temp_6c612894-8d7b-4fc0-9d5e-ac9f4134e3ca.jpg by Fire Responder 03
+07/29/2022 11:42:29 am - UPDATE INCIDENT: Incident Id - 2568 - In Progress by Fire Responder 03
+07/29/2022 11:44:18 am - UPDATE INCIDENT: Incident Id - 2568 - Completed by Fire Responder 03
+07/29/2022 11:54:55 am - LOGOUT: Responder Id - 1330 Fire Responder 01
+07/29/2022 11:55:17 am - LOGIN: Responder Id - 1664 LED Responder 03
+07/29/2022 12:01:36 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/29/2022 12:02:09 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/29/2022 12:07:45 pm - ACCEPT INCIDENT: Incident Id - 2576 - Accept by LED Responder 01
+07/29/2022 12:08:13 pm - UPLOAD FILE: Incident Id - 2576 - Filename - rn_image_picker_lib_temp_c3b3deb3-ebd1-45b0-aaa0-fdb85fb3354b.jpg by LED Responder 01
+07/29/2022 12:08:14 pm - UPDATE INCIDENT: Incident Id - 2576 - In Progress by LED Responder 01
+07/29/2022 12:09:17 pm - UPDATE INCIDENT: Incident Id - 2576 - Completed by LED Responder 01
+07/29/2022 12:10:23 pm - ACCEPT INCIDENT: Incident Id - 2583 - Accept by LED Responder 02
+07/29/2022 12:10:46 pm - UPLOAD FILE: Incident Id - 2583 - Filename - rn_image_picker_lib_temp_593c2fb4-4692-4b09-a8d8-ce2227c37aab.jpg by LED Responder 02
+07/29/2022 12:10:46 pm - UPDATE INCIDENT: Incident Id - 2583 - Completed by LED Responder 02
+07/29/2022 12:12:42 pm - ACCEPT INCIDENT: Incident Id - 2589 - Accept by LED Responder 03
+07/29/2022 12:13:11 pm - UPLOAD FILE: Incident Id - 2589 - Filename - rn_image_picker_lib_temp_88b72768-35ac-48df-8dce-d318dd01951f.jpg by LED Responder 03
+07/29/2022 12:13:12 pm - UPDATE INCIDENT: Incident Id - 2589 - In Progress by LED Responder 03
+07/29/2022 12:14:53 pm - UPLOAD FILE: Incident Id - 2589 - Filename - rn_image_picker_lib_temp_9506ba31-6b63-4952-b288-564f8907b3fb.jpg by LED Responder 03
+07/29/2022 12:14:54 pm - UPDATE INCIDENT: Incident Id - 2589 - Completed by LED Responder 03
+07/29/2022 12:17:13 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/29/2022 12:25:23 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 12:31:12 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 01:34:19 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 01:34:47 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 01:37:10 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 01:47:39 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/29/2022 01:48:30 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/29/2022 01:48:56 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+07/29/2022 01:49:16 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/29/2022 01:49:35 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 01:50:06 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 01:51:46 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 01:52:24 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 01:58:30 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:09:01 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+07/29/2022 02:09:54 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/29/2022 02:21:32 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/29/2022 02:28:19 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:28:49 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:37:04 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 02:37:26 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 02:37:29 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/29/2022 02:37:57 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/29/2022 02:42:35 pm - LOGOUT: Responder Id - 1664 LED Responder 03
+07/29/2022 02:43:01 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+07/29/2022 02:44:13 pm - LOGIN: Responder Id - 1664 LED Responder 03
+07/29/2022 02:49:42 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 02:50:20 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:50:49 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:51:31 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 02:52:01 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 02:57:39 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:58:27 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 02:58:55 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+07/29/2022 02:59:18 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+07/29/2022 02:59:38 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 03:00:02 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/29/2022 03:27:58 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+07/29/2022 03:28:29 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/29/2022 03:28:39 pm - LOGOUT: Responder Id - 1664 LED Responder 03
+07/29/2022 03:28:59 pm - LOGIN: Responder Id - 1664 LED Responder 03
+07/29/2022 03:29:13 pm - LOGOUT: Responder Id - 1331 LED Responder 01
+07/29/2022 03:29:33 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/29/2022 03:37:42 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+07/29/2022 03:38:14 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+07/29/2022 03:38:23 pm - LOGOUT: Responder Id - 1575 Fire Responder 02
+07/29/2022 03:38:46 pm - LOGIN: Responder Id - 1575 Fire Responder 02
+07/29/2022 03:39:10 pm - LOGOUT: Responder Id - 1330 Fire Responder 01
+07/29/2022 03:39:26 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+09/08/2022 09:08:40 am - LOGIN: Responder Id - 1670 Mark Santos
+09/08/2022 09:43:41 am - LOGOUT: Responder Id - 1670 Mark Santos
+09/08/2022 09:44:45 am - LOGIN: Responder Id - 1670 Mark Santos
+09/08/2022 10:11:10 am - LOGOUT: Responder Id - 1670 Mark Santos
+09/08/2022 10:51:48 am - LOGIN: Responder Id - 1670 Mark Santos
+09/08/2022 11:01:56 am - ACCEPT INCIDENT: Incident Id - 2610 - Accept by Mark Santos
+09/08/2022 11:04:27 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_d32192fc-09a8-4dc2-99a4-0218303bea7f.jpg by Mark Santos
+09/08/2022 11:04:27 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_24a6c157-4e31-431d-9f11-1f9f6afe25f1.jpg by Mark Santos
+09/08/2022 11:04:27 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_fb15c8f6-aa8c-4df0-9cf8-f28e4240cd83.jpg by Mark Santos
+09/08/2022 11:04:28 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_557cf2b0-e3ae-4c0e-b8a3-a46b9e679657.jpg by Mark Santos
+09/08/2022 11:04:28 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_313626b5-f543-4c79-a3fb-0a84274b960a.jpg by Mark Santos
+09/08/2022 11:04:29 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_67943e07-a79e-45e5-8ad6-470f00120923.jpg by Mark Santos
+09/08/2022 11:04:29 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_d868d1f8-c3b7-4523-b1a2-2ddbe2b532bc.jpg by Mark Santos
+09/08/2022 11:04:29 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_15dd2864-2cac-481c-9003-42384d9c83bc.jpg by Mark Santos
+09/08/2022 11:04:29 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_037da8bb-a7cc-480e-9b07-716e8b4beddf.jpg by Mark Santos
+09/08/2022 11:04:30 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_6a698349-d40c-4612-9981-078ea45cef2e.jpg by Mark Santos
+09/08/2022 11:04:31 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_ceffccc7-e02d-4aca-ae71-17b6d02e6adf.jpg by Mark Santos
+09/08/2022 11:04:31 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_aa7e217b-ccad-4363-921e-31e1d20419b1.jpg by Mark Santos
+09/08/2022 11:04:31 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_293f4cc2-a691-4963-b24f-3be843602dd7.jpg by Mark Santos
+09/08/2022 11:04:31 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_cdb755c3-279b-45b9-aab9-65fa8724158b.jpg by Mark Santos
+09/08/2022 11:04:31 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_7ec1130f-c9f6-4b3a-ae60-81ef80aadaa5.jpg by Mark Santos
+09/08/2022 11:04:32 am - UPDATE INCIDENT: Incident Id - 2610 - In Progress by Mark Santos
+09/08/2022 11:04:50 am - UPDATE INCIDENT: Incident Id - 2610 - Completed by Mark Santos
+09/08/2022 11:09:45 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_6bc82b2a-80f7-4e3e-8ade-282506dbe4f3.jpg by Mark Santos
+09/08/2022 11:09:45 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_c7b20ed8-149c-45b3-9e1e-c10c143a16b4.jpg by Mark Santos
+09/08/2022 11:09:45 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_ea254481-80be-4b9e-952e-2c07bd0b01a7.jpg by Mark Santos
+09/08/2022 11:09:46 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_99a26036-7a6a-425f-b2e7-30ca9a8a5996.jpg by Mark Santos
+09/08/2022 11:09:46 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_8489d703-9110-4596-a124-e4ae9154f17a.jpg by Mark Santos
+09/08/2022 11:09:46 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_cad10801-2064-4d78-a091-744f304748d2.jpg by Mark Santos
+09/08/2022 11:09:46 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_d1d8150b-9ec1-441a-89c7-043eb7992f1a.jpg by Mark Santos
+09/08/2022 11:09:47 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_d18e23f2-e156-4ecc-a612-4f347ca4db26.jpg by Mark Santos
+09/08/2022 11:09:47 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_f273cc63-76f1-4b68-aef2-33fe8138e45b.jpg by Mark Santos
+09/08/2022 11:09:47 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_0b229f80-1d10-4eaf-b135-6cf69eed7362.jpg by Mark Santos
+09/08/2022 11:09:48 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_5f777b40-acb0-4bd9-a177-92b11b4735c8.jpg by Mark Santos
+09/08/2022 11:09:48 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_714ba6b1-03e8-4bda-93e9-f7e6d80450b9.jpg by Mark Santos
+09/08/2022 11:09:49 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_574ce0ea-e21d-48d4-a70b-79b85f63c14f.jpg by Mark Santos
+09/08/2022 11:09:49 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_d03837cc-f3c3-4901-8d04-97b32207eceb.jpg by Mark Santos
+09/08/2022 11:09:49 am - UPLOAD FILE: Incident Id - 2610 - Filename - rn_image_picker_lib_temp_a62af56d-537d-4ce5-bf6a-941ecb000e1f.jpg by Mark Santos
+09/08/2022 11:09:49 am - UPDATE INCIDENT: Incident Id - 2610 - Completed by Mark Santos
+09/08/2022 11:11:40 am - ACCEPT INCIDENT: Incident Id - 2705 - Accept by Mark Santos
+09/08/2022 12:34:08 pm - UPLOAD FILE: Incident Id - 2705 - Filename - rn_image_picker_lib_temp_573989fb-3d9e-4a6b-9a7d-55d78dd60adf.mp4 by Mark Santos
+09/08/2022 12:34:08 pm - UPDATE INCIDENT: Incident Id - 2705 - In Progress by Mark Santos
+09/08/2022 01:28:26 pm - UPLOAD FILE: Incident Id - 2705 - Filename - rn_image_picker_lib_temp_c010859c-c10d-4dd3-9945-fac37af2a3ab.mp4 by Mark Santos
+09/08/2022 01:28:27 pm - UPDATE INCIDENT: Incident Id - 2705 - In Progress by Mark Santos
+09/08/2022 01:29:54 pm - UPDATE INCIDENT: Incident Id - 2705 - Completed by Mark Santos
+09/08/2022 01:48:31 pm - ACCEPT INCIDENT: Incident Id - 2716 - Accept by Mark Santos
+09/08/2022 01:49:30 pm - UPDATE INCIDENT: Incident Id - 2716 - In Progress by Mark Santos
+09/08/2022 02:34:49 pm - UPDATE INCIDENT: Incident Id - 2716 - Completed by Mark Santos
+09/08/2022 02:39:06 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_6d577a8d-9417-43d5-a8ba-6a97788d329d.jpg by Mark Santos
+09/08/2022 02:39:07 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_eef8dd45-9129-423b-a7bb-d0d541e5f493.jpg by Mark Santos
+09/08/2022 02:39:09 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_8faef78f-cfe8-4346-8371-32a08e24b483.jpg by Mark Santos
+09/08/2022 02:39:11 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_25239efb-d0df-45b8-a254-0fb5cc19afd8.jpg by Mark Santos
+09/08/2022 02:39:15 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_023e751e-cff5-4944-8339-f2ac766f5923.jpg by Mark Santos
+09/08/2022 02:39:17 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_ca9bdce2-46c0-4198-934e-b973dbecaea7.jpg by Mark Santos
+09/08/2022 02:39:19 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2668520e-42c5-4659-b85c-27650aa14892.jpg by Mark Santos
+09/08/2022 02:39:20 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_63a5f786-4694-4643-b997-c43df4b1fbdb.jpg by Mark Santos
+09/08/2022 02:39:23 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_20fb078b-0314-40c5-ac8b-6a02618992f0.jpg by Mark Santos
+09/08/2022 02:39:24 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_aacb6b7f-170b-4468-948b-0e957d4677ce.jpg by Mark Santos
+09/08/2022 02:39:25 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_f6dde260-9011-4c75-baf6-fdb4537e9e0b.jpg by Mark Santos
+09/08/2022 02:39:26 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_f0a810e2-832e-43d4-99b1-c62241ef2c2e.jpg by Mark Santos
+09/08/2022 02:39:27 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2d1dcb78-82b4-497a-8636-a379cc7506b8.jpg by Mark Santos
+09/08/2022 02:39:30 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2fb13460-2b8e-475e-be8f-266d3646c921.jpg by Mark Santos
+09/08/2022 02:39:32 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_bba4d652-906a-4a8f-8a47-6f96f5117fe1.jpg by Mark Santos
+09/08/2022 02:40:54 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_6d577a8d-9417-43d5-a8ba-6a97788d329d.jpg by Mark Santos
+09/08/2022 02:40:56 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_8faef78f-cfe8-4346-8371-32a08e24b483.jpg by Mark Santos
+09/08/2022 02:40:56 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_ca9bdce2-46c0-4198-934e-b973dbecaea7.jpg by Mark Santos
+09/08/2022 02:40:58 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_023e751e-cff5-4944-8339-f2ac766f5923.jpg by Mark Santos
+09/08/2022 02:42:49 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_63a5f786-4694-4643-b997-c43df4b1fbdb.jpg by Mark Santos
+09/08/2022 02:42:50 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_eef8dd45-9129-423b-a7bb-d0d541e5f493.jpg by Mark Santos
+09/08/2022 03:01:39 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_6cec0c34-f1bd-4cb2-964a-4dcee6fe51d8.mp4 by Mark Santos
+09/08/2022 03:01:40 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2668520e-42c5-4659-b85c-27650aa14892.jpg by Mark Santos
+09/08/2022 03:01:43 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2d1dcb78-82b4-497a-8636-a379cc7506b8.jpg by Mark Santos
+09/08/2022 03:01:46 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_bba4d652-906a-4a8f-8a47-6f96f5117fe1.jpg by Mark Santos
+09/08/2022 03:01:47 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_f6dde260-9011-4c75-baf6-fdb4537e9e0b.jpg by Mark Santos
+09/08/2022 03:01:49 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_f0a810e2-832e-43d4-99b1-c62241ef2c2e.jpg by Mark Santos
+09/08/2022 03:01:50 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2fb13460-2b8e-475e-be8f-266d3646c921.jpg by Mark Santos
+09/08/2022 03:01:50 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_20fb078b-0314-40c5-ac8b-6a02618992f0.jpg by Mark Santos
+09/08/2022 03:01:51 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_25239efb-d0df-45b8-a254-0fb5cc19afd8.jpg by Mark Santos
+09/08/2022 03:01:55 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_aacb6b7f-170b-4468-948b-0e957d4677ce.jpg by Mark Santos
+09/08/2022 03:02:51 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_63ca12ad-21b6-4b67-9d98-0625dcf21820.mp4 by Mark Santos
+09/08/2022 03:06:51 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_26f7d708-eec2-4f61-b4ad-2947379ed759.mp4 by Mark Santos
+09/08/2022 03:06:52 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_6d577a8d-9417-43d5-a8ba-6a97788d329d.jpg by Mark Santos
+09/08/2022 03:06:55 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_ca9bdce2-46c0-4198-934e-b973dbecaea7.jpg by Mark Santos
+09/08/2022 03:09:05 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_63ca12ad-21b6-4b67-9d98-0625dcf21820.mp4 by Mark Santos
+09/08/2022 03:09:08 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_63a5f786-4694-4643-b997-c43df4b1fbdb.jpg by Mark Santos
+09/08/2022 03:09:09 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_eef8dd45-9129-423b-a7bb-d0d541e5f493.jpg by Mark Santos
+09/08/2022 03:09:10 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_25239efb-d0df-45b8-a254-0fb5cc19afd8.jpg by Mark Santos
+09/08/2022 03:09:11 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2668520e-42c5-4659-b85c-27650aa14892.jpg by Mark Santos
+09/08/2022 03:09:13 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_6cec0c34-f1bd-4cb2-964a-4dcee6fe51d8.mp4 by Mark Santos
+09/08/2022 03:09:14 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_8faef78f-cfe8-4346-8371-32a08e24b483.jpg by Mark Santos
+09/08/2022 03:09:15 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_f6dde260-9011-4c75-baf6-fdb4537e9e0b.jpg by Mark Santos
+09/08/2022 03:09:15 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_023e751e-cff5-4944-8339-f2ac766f5923.jpg by Mark Santos
+09/08/2022 03:09:16 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_f0a810e2-832e-43d4-99b1-c62241ef2c2e.jpg by Mark Santos
+09/08/2022 03:09:17 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_bba4d652-906a-4a8f-8a47-6f96f5117fe1.jpg by Mark Santos
+09/08/2022 03:09:17 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2fb13460-2b8e-475e-be8f-266d3646c921.jpg by Mark Santos
+09/08/2022 03:09:19 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_2d1dcb78-82b4-497a-8636-a379cc7506b8.jpg by Mark Santos
+09/08/2022 03:09:20 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_aacb6b7f-170b-4468-948b-0e957d4677ce.jpg by Mark Santos
+09/08/2022 03:09:20 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_20fb078b-0314-40c5-ac8b-6a02618992f0.jpg by Mark Santos
+09/08/2022 03:18:30 pm - UPDATE INCIDENT: Incident Id - 2606 - In Progress by Mark Santos
+09/08/2022 03:23:46 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_6cec0c34-f1bd-4cb2-964a-4dcee6fe51d8.mp4 by Mark Santos
+09/08/2022 03:24:36 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_63ca12ad-21b6-4b67-9d98-0625dcf21820.mp4 by Mark Santos
+09/08/2022 03:26:49 pm - UPLOAD FILE: Incident Id - 2606 - Filename - rn_image_picker_lib_temp_26f7d708-eec2-4f61-b4ad-2947379ed759.mp4 by Mark Santos
+09/08/2022 03:26:49 pm - UPDATE INCIDENT: Incident Id - 2606 - In Progress by Mark Santos
+09/08/2022 03:38:50 pm - UPDATE INCIDENT: Incident Id - 2606 - Completed by Mark Santos
+09/09/2022 03:10:31 pm - ACCEPT INCIDENT: Incident Id - 2882 - Accept by Mark Santos
+09/09/2022 03:12:01 pm - UPLOAD FILE: Incident Id - 2882 - Filename - rn_image_picker_lib_temp_6d1d354d-f945-4600-a1dd-8a1f2a5ddcc3.jpg by Mark Santos
+09/09/2022 03:12:01 pm - UPLOAD FILE: Incident Id - 2882 - Filename - rn_image_picker_lib_temp_08ab6f74-4ce9-4c82-9afe-d92d3df3501b.jpg by Mark Santos
+09/09/2022 03:12:01 pm - UPLOAD FILE: Incident Id - 2882 - Filename - rn_image_picker_lib_temp_88967505-af18-4d90-81ee-f1a570f7648b.jpg by Mark Santos
+09/09/2022 03:12:02 pm - UPDATE INCIDENT: Incident Id - 2882 - In Progress by Mark Santos
+09/09/2022 03:13:37 pm - UPDATE INCIDENT: Incident Id - 2882 - Completed by Mark Santos
+09/09/2022 03:23:38 pm - ACCEPT INCIDENT: Incident Id - 2896 - Accept by Mark Santos
+09/09/2022 03:25:16 pm - UPDATE INCIDENT: Incident Id - 2896 - Completed by Mark Santos
+09/09/2022 03:26:13 pm - UPDATE INCIDENT: Incident Id - 2896 - In Progress by Mark Santos
+09/13/2022 09:14:59 am - LOGOUT: Responder Id - 1330 Fire Responder 01
+09/13/2022 09:15:09 am - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+09/13/2022 09:15:16 am - LOGOUT: Responder Id - 1331 LED Responder 01
+09/13/2022 09:26:04 am - LOGIN: Responder Id - 1330 Fire Responder 01
+09/13/2022 09:26:15 am - LOGOUT: Responder Id - 1330 Fire Responder 01
+09/13/2022 03:22:06 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+09/13/2022 03:22:37 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+09/13/2022 03:28:27 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+09/13/2022 03:28:37 pm - ACCEPT INCIDENT: Incident Id - 4722 - Accept by Fire Responder 01
+09/13/2022 03:29:01 pm - UPDATE INCIDENT: Incident Id - 4722 - In Progress by Fire Responder 01
+09/13/2022 03:31:36 pm - LOGIN: Responder Id - 1331 LED Responder 01
+09/13/2022 03:35:04 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+09/13/2022 03:39:03 pm - UPDATE INCIDENT: Incident Id - 4722 - Completed by LED Responder 01
+09/13/2022 03:41:01 pm - ACCEPT INCIDENT: Incident Id - 4725 - Accept by LED Responder 01
+09/13/2022 03:41:27 pm - UPLOAD FILE: Incident Id - 4725 - Filename - rn_image_picker_lib_temp_9d20d2fc-7e2e-4e42-a6c6-285d7c8a5f89.jpg by LED Responder 01
+09/13/2022 03:41:28 pm - UPDATE INCIDENT: Incident Id - 4725 - In Progress by LED Responder 01
+09/13/2022 03:42:28 pm - UPLOAD FILE: Incident Id - 4725 - Filename - rn_image_picker_lib_temp_260b8158-030e-4b55-af61-a13393d021ed.mp4 by LED Responder 01
+09/13/2022 03:42:29 pm - UPDATE INCIDENT: Incident Id - 4725 - In Progress by LED Responder 01
+09/18/2022 01:31:18 pm - ACCEPT INCIDENT: Incident Id - 4842 - Accept by LED Responder 01
+09/18/2022 01:35:34 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+09/18/2022 01:35:41 pm - ACCEPT INCIDENT: Incident Id - 4840 - Accept by Public Safety Responder 01
+09/18/2022 01:35:52 pm - ACCEPT INCIDENT: Incident Id - 4840 - Accept by Fire Responder 01
+09/18/2022 01:35:58 pm - UPDATE INCIDENT: Incident Id - 4840 - In Progress by Public Safety Responder 01
+09/18/2022 01:35:59 pm - UPDATE INCIDENT: Incident Id - 4840 - In Progress by Fire Responder 01
+09/18/2022 01:36:04 pm - ACCEPT INCIDENT: Incident Id - 4839 - Accept by Public Safety Responder 01
+09/18/2022 01:36:04 pm - ACCEPT INCIDENT: Incident Id - 4839 - Accept by Fire Responder 01
+09/18/2022 01:36:07 pm - UPDATE INCIDENT: Incident Id - 4842 - Open by LED Responder 01
+09/18/2022 01:36:10 pm - UPDATE INCIDENT: Incident Id - 4839 - Completed by Public Safety Responder 01
+09/18/2022 01:36:18 pm - ACCEPT INCIDENT: Incident Id - 4842 - Accept by LED Responder 01
+09/18/2022 01:36:21 pm - UPDATE INCIDENT: Incident Id - 4842 - In Progress by LED Responder 01
+09/18/2022 01:36:22 pm - ACCEPT INCIDENT: Incident Id - 4837 - Accept by Public Safety Responder 01
+09/18/2022 01:36:26 pm - UPDATE INCIDENT: Incident Id - 4837 - Completed by Public Safety Responder 01
+09/18/2022 01:36:26 pm - ACCEPT INCIDENT: Incident Id - 4841 - Accept by LED Responder 01
+09/18/2022 01:36:32 pm - ACCEPT INCIDENT: Incident Id - 4835 - Accept by Public Safety Responder 01
+09/18/2022 01:36:47 pm - UPDATE INCIDENT: Incident Id - 4835 - Completed by Public Safety Responder 01
+09/18/2022 01:37:31 pm - UPDATE INCIDENT: Incident Id - 4839 - In Progress by Fire Responder 01
+09/18/2022 01:37:37 pm - UPDATE INCIDENT: Incident Id - 4841 - In Progress by LED Responder 01
+09/18/2022 01:42:47 pm - ACCEPT INCIDENT: Incident Id - 4862 - Accept by Public Safety Responder 01
+09/18/2022 01:43:14 pm - UPLOAD FILE: Incident Id - 4862 - Filename - rn_image_picker_lib_temp_0b74c413-68d6-4561-a52d-cd69e9cb3690.jpg by Public Safety Responder 01
+09/18/2022 01:43:15 pm - UPDATE INCIDENT: Incident Id - 4862 - In Progress by Public Safety Responder 01
+09/18/2022 01:45:09 pm - UPLOAD FILE: Incident Id - 4862 - Filename - rn_image_picker_lib_temp_e66393b3-26f3-4b57-b8f9-492f39ebea97.jpg by Public Safety Responder 01
+09/18/2022 01:45:10 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:08:06 pm - ACCEPT INCIDENT: Incident Id - 4834 - Accept by Fire Responder 01
+09/18/2022 03:08:22 pm - UPDATE INCIDENT: Incident Id - 4834 - Completed by Fire Responder 01
+09/18/2022 03:08:33 pm - ACCEPT INCIDENT: Incident Id - 4829 - Accept by Fire Responder 01
+09/18/2022 03:08:35 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:08:39 pm - UPDATE INCIDENT: Incident Id - 4829 - Completed by Fire Responder 01
+09/18/2022 03:08:42 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:08:44 pm - ACCEPT INCIDENT: Incident Id - 4826 - Accept by Fire Responder 01
+09/18/2022 03:08:50 pm - UPDATE INCIDENT: Incident Id - 4826 - Completed by Fire Responder 01
+09/18/2022 03:08:53 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:08:55 pm - ACCEPT INCIDENT: Incident Id - 4825 - Accept by Fire Responder 01
+09/18/2022 03:09:00 pm - UPDATE INCIDENT: Incident Id - 4825 - Completed by Fire Responder 01
+09/18/2022 03:09:01 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:09:05 pm - ACCEPT INCIDENT: Incident Id - 4824 - Accept by Fire Responder 01
+09/18/2022 03:09:05 pm - ACCEPT INCIDENT: Incident Id - 4824 - Accept by Fire Responder 01
+09/18/2022 03:09:11 pm - UPDATE INCIDENT: Incident Id - 4824 - Completed by Fire Responder 01
+09/18/2022 03:09:16 pm - ACCEPT INCIDENT: Incident Id - 4822 - Accept by Fire Responder 01
+09/18/2022 03:09:17 pm - ACCEPT INCIDENT: Incident Id - 4822 - Accept by Fire Responder 01
+09/18/2022 03:09:22 pm - UPDATE INCIDENT: Incident Id - 4822 - Completed by Fire Responder 01
+09/18/2022 03:09:26 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:09:28 pm - ACCEPT INCIDENT: Incident Id - 4818 - Accept by Fire Responder 01
+09/18/2022 03:09:32 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:09:34 pm - UPDATE INCIDENT: Incident Id - 4818 - Completed by Fire Responder 01
+09/18/2022 03:09:41 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:09:42 pm - ACCEPT INCIDENT: Incident Id - 4740 - Accept by Fire Responder 01
+09/18/2022 03:09:49 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:09:49 pm - UPDATE INCIDENT: Incident Id - 4740 - Completed by Fire Responder 01
+09/18/2022 03:09:54 pm - ACCEPT INCIDENT: Incident Id - 4817 - Accept by Fire Responder 01
+09/18/2022 03:10:00 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:10:01 pm - UPDATE INCIDENT: Incident Id - 4817 - Completed by Fire Responder 01
+09/18/2022 03:10:08 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:10:13 pm - ACCEPT INCIDENT: Incident Id - 4814 - Accept by Fire Responder 01
+09/18/2022 03:10:17 pm - UPDATE INCIDENT: Incident Id - 4814 - Completed by Fire Responder 01
+09/18/2022 03:10:23 pm - ACCEPT INCIDENT: Incident Id - 4812 - Accept by Fire Responder 01
+09/18/2022 03:10:25 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:10:28 pm - UPDATE INCIDENT: Incident Id - 4812 - Completed by Fire Responder 01
+09/18/2022 03:10:34 pm - ACCEPT INCIDENT: Incident Id - 4809 - Accept by Fire Responder 01
+09/18/2022 03:10:34 pm - ACCEPT INCIDENT: Incident Id - 4809 - Accept by Fire Responder 01
+09/18/2022 03:10:37 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:10:40 pm - UPDATE INCIDENT: Incident Id - 4809 - Completed by Fire Responder 01
+09/18/2022 03:10:43 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:10:49 pm - ACCEPT INCIDENT: Incident Id - 4803 - Accept by Fire Responder 01
+09/18/2022 03:10:52 pm - UPDATE INCIDENT: Incident Id - 4803 - Completed by Fire Responder 01
+09/18/2022 03:10:53 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:10:58 pm - ACCEPT INCIDENT: Incident Id - 4802 - Accept by Fire Responder 01
+09/18/2022 03:11:03 pm - UPDATE INCIDENT: Incident Id - 4802 - Completed by Fire Responder 01
+09/18/2022 03:11:04 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:11:08 pm - ACCEPT INCIDENT: Incident Id - 4799 - Accept by Fire Responder 01
+09/18/2022 03:11:13 pm - UPDATE INCIDENT: Incident Id - 4799 - Completed by Fire Responder 01
+09/18/2022 03:11:14 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:11:19 pm - ACCEPT INCIDENT: Incident Id - 4797 - Accept by Fire Responder 01
+09/18/2022 03:11:23 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:11:23 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:11:24 pm - UPDATE INCIDENT: Incident Id - 4797 - Completed by Fire Responder 01
+09/18/2022 03:11:30 pm - ACCEPT INCIDENT: Incident Id - 4795 - Accept by Fire Responder 01
+09/18/2022 03:11:33 pm - UPDATE INCIDENT: Incident Id - 4862 - Completed by Public Safety Responder 01
+09/18/2022 03:11:35 pm - UPDATE INCIDENT: Incident Id - 4862 - Closed by Public Safety Responder 01
+09/18/2022 03:11:38 pm - UPDATE INCIDENT: Incident Id - 4795 - Completed by Fire Responder 01
+09/18/2022 03:11:42 pm - ACCEPT INCIDENT: Incident Id - 4793 - Accept by Fire Responder 01
+09/18/2022 03:11:45 pm - UPDATE INCIDENT: Incident Id - 4837 - Completed by Public Safety Responder 01
+09/18/2022 03:11:47 pm - UPDATE INCIDENT: Incident Id - 4793 - Completed by Fire Responder 01
+09/18/2022 03:11:52 pm - ACCEPT INCIDENT: Incident Id - 4791 - Accept by Fire Responder 01
+09/18/2022 03:11:57 pm - UPDATE INCIDENT: Incident Id - 4791 - Completed by Fire Responder 01
+09/18/2022 03:12:00 pm - UPDATE INCIDENT: Incident Id - 1338 - Completed by LED Responder 01
+09/18/2022 03:12:02 pm - ACCEPT INCIDENT: Incident Id - 4789 - Accept by Fire Responder 01
+09/18/2022 03:12:03 pm - ACCEPT INCIDENT: Incident Id - 4789 - Accept by Fire Responder 01
+09/18/2022 03:12:08 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:12:10 pm - UPDATE INCIDENT: Incident Id - 4789 - Completed by Fire Responder 01
+09/18/2022 03:12:16 pm - ACCEPT INCIDENT: Incident Id - 4786 - Accept by Fire Responder 01
+09/18/2022 03:12:22 pm - UPDATE INCIDENT: Incident Id - 4786 - Completed by Fire Responder 01
+09/18/2022 03:12:24 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:12:31 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:12:33 pm - ACCEPT INCIDENT: Incident Id - 4785 - Accept by Fire Responder 01
+09/18/2022 03:12:38 pm - UPDATE INCIDENT: Incident Id - 4785 - Completed by Fire Responder 01
+09/18/2022 03:12:42 pm - ACCEPT INCIDENT: Incident Id - 4781 - Accept by Fire Responder 01
+09/18/2022 03:12:43 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:12:51 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:12:53 pm - UPDATE INCIDENT: Incident Id - 4781 - Completed by Fire Responder 01
+09/18/2022 03:12:59 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:13:02 pm - ACCEPT INCIDENT: Incident Id - 4779 - Accept by Fire Responder 01
+09/18/2022 03:13:08 pm - UPDATE INCIDENT: Incident Id - 4779 - Completed by Fire Responder 01
+09/18/2022 03:13:08 pm - UPDATE INCIDENT: Incident Id - 4779 - Completed by Fire Responder 01
+09/18/2022 03:13:20 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:13:30 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:13:37 pm - UPDATE INCIDENT: Incident Id - 4840 - Completed by Fire Responder 01
+09/18/2022 03:13:39 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:13:48 pm - UPDATE INCIDENT: Incident Id - 4839 - Completed by Fire Responder 01
+09/18/2022 03:13:57 pm - UPDATE INCIDENT: Incident Id - 1540 - Completed by LED Responder 01
+09/18/2022 03:14:08 pm - ACCEPT INCIDENT: Incident Id - 4832 - Accept by Public Safety Responder 01
+09/18/2022 03:14:08 pm - ACCEPT INCIDENT: Incident Id - 4776 - Accept by Fire Responder 01
+09/18/2022 03:14:08 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:14:13 pm - UPDATE INCIDENT: Incident Id - 4776 - Completed by Fire Responder 01
+09/18/2022 03:14:14 pm - UPDATE INCIDENT: Incident Id - 4776 - Closed by Fire Responder 01
+09/18/2022 03:14:14 pm - UPDATE INCIDENT: Incident Id - 4832 - Completed by Public Safety Responder 01
+09/18/2022 03:14:16 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:14:19 pm - ACCEPT INCIDENT: Incident Id - 4775 - Accept by Fire Responder 01
+09/18/2022 03:14:20 pm - ACCEPT INCIDENT: Incident Id - 4831 - Accept by Public Safety Responder 01
+09/18/2022 03:14:23 pm - UPDATE INCIDENT: Incident Id - 4831 - Completed by Public Safety Responder 01
+09/18/2022 03:14:23 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:14:25 pm - UPDATE INCIDENT: Incident Id - 4775 - Completed by Fire Responder 01
+09/18/2022 03:14:31 pm - ACCEPT INCIDENT: Incident Id - 4770 - Accept by Fire Responder 01
+09/18/2022 03:14:34 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:14:34 pm - ACCEPT INCIDENT: Incident Id - 4727 - Accept by Public Safety Responder 01
+09/18/2022 03:14:35 pm - UPDATE INCIDENT: Incident Id - 4770 - Completed by Fire Responder 01
+09/18/2022 03:14:40 pm - UPDATE INCIDENT: Incident Id - 4727 - Completed by Public Safety Responder 01
+09/18/2022 03:14:43 pm - ACCEPT INCIDENT: Incident Id - 4768 - Accept by Fire Responder 01
+09/18/2022 03:14:46 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:14:48 pm - ACCEPT INCIDENT: Incident Id - 4827 - Accept by Public Safety Responder 01
+09/18/2022 03:14:48 pm - UPDATE INCIDENT: Incident Id - 4768 - Completed by Fire Responder 01
+09/18/2022 03:14:49 pm - UPDATE INCIDENT: Incident Id - 4768 - Completed by Fire Responder 01
+09/18/2022 03:14:53 pm - ACCEPT INCIDENT: Incident Id - 4767 - Accept by Fire Responder 01
+09/18/2022 03:14:53 pm - UPDATE INCIDENT: Incident Id - 4827 - Completed by Public Safety Responder 01
+09/18/2022 03:14:55 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:14:58 pm - UPDATE INCIDENT: Incident Id - 4767 - Completed by Fire Responder 01
+09/18/2022 03:15:00 pm - ACCEPT INCIDENT: Incident Id - 4821 - Accept by Public Safety Responder 01
+09/18/2022 03:15:04 pm - UPDATE INCIDENT: Incident Id - 4821 - Completed by Public Safety Responder 01
+09/18/2022 03:15:05 pm - ACCEPT INCIDENT: Incident Id - 4764 - Accept by Fire Responder 01
+09/18/2022 03:15:12 pm - UPDATE INCIDENT: Incident Id - 4764 - Completed by Fire Responder 01
+09/18/2022 03:15:18 pm - ACCEPT INCIDENT: Incident Id - 4760 - Accept by Fire Responder 01
+09/18/2022 03:15:22 pm - UPDATE INCIDENT: Incident Id - 4760 - Completed by Fire Responder 01
+09/18/2022 03:15:26 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:15:29 pm - ACCEPT INCIDENT: Incident Id - 4757 - Accept by Fire Responder 01
+09/18/2022 03:15:39 pm - UPDATE INCIDENT: Incident Id - 4757 - Completed by Fire Responder 01
+09/18/2022 03:15:43 pm - ACCEPT INCIDENT: Incident Id - 4755 - Accept by Fire Responder 01
+09/18/2022 03:15:48 pm - UPDATE INCIDENT: Incident Id - 4755 - Completed by Fire Responder 01
+09/18/2022 03:15:54 pm - ACCEPT INCIDENT: Incident Id - 4750 - Accept by Fire Responder 01
+09/18/2022 03:15:56 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:15:59 pm - UPDATE INCIDENT: Incident Id - 4750 - Completed by Fire Responder 01
+09/18/2022 03:16:06 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:16:07 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:16:08 pm - ACCEPT INCIDENT: Incident Id - 4747 - Accept by Fire Responder 01
+09/18/2022 03:16:12 pm - UPDATE INCIDENT: Incident Id - 4747 - Completed by Fire Responder 01
+09/18/2022 03:16:18 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:16:22 pm - ACCEPT INCIDENT: Incident Id - 4746 - Accept by Fire Responder 01
+09/18/2022 03:16:26 pm - UPDATE INCIDENT: Incident Id - 4746 - Completed by Fire Responder 01
+09/18/2022 03:16:29 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:16:30 pm - ACCEPT INCIDENT: Incident Id - 4743 - Accept by Fire Responder 01
+09/18/2022 03:16:33 pm - ACCEPT INCIDENT: Incident Id - 4815 - Accept by Public Safety Responder 01
+09/18/2022 03:16:38 pm - UPDATE INCIDENT: Incident Id - 4743 - Completed by Fire Responder 01
+09/18/2022 03:16:38 pm - UPDATE INCIDENT: Incident Id - 4743 - Completed by Fire Responder 01
+09/18/2022 03:16:40 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:16:41 pm - UPDATE INCIDENT: Incident Id - 4815 - Completed by Public Safety Responder 01
+09/18/2022 03:17:06 pm - ACCEPT INCIDENT: Incident Id - 4813 - Accept by Public Safety Responder 01
+09/18/2022 03:17:11 pm - UPDATE INCIDENT: Incident Id - 4813 - Completed by Public Safety Responder 01
+09/18/2022 03:17:16 pm - ACCEPT INCIDENT: Incident Id - 4811 - Accept by Public Safety Responder 01
+09/18/2022 03:17:20 pm - UPDATE INCIDENT: Incident Id - 4811 - Completed by Public Safety Responder 01
+09/18/2022 03:17:25 pm - ACCEPT INCIDENT: Incident Id - 4808 - Accept by Public Safety Responder 01
+09/18/2022 03:17:31 pm - UPDATE INCIDENT: Incident Id - 4808 - Completed by Public Safety Responder 01
+09/18/2022 03:17:35 pm - ACCEPT INCIDENT: Incident Id - 4805 - Accept by Public Safety Responder 01
+09/18/2022 03:17:42 pm - UPDATE INCIDENT: Incident Id - 4805 - Completed by Public Safety Responder 01
+09/18/2022 03:17:47 pm - ACCEPT INCIDENT: Incident Id - 4800 - Accept by Public Safety Responder 01
+09/18/2022 03:17:52 pm - UPDATE INCIDENT: Incident Id - 4800 - Completed by Public Safety Responder 01
+09/18/2022 03:20:24 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:20:33 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:22:47 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:22:54 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/18/2022 03:23:01 pm - UPDATE INCIDENT: Incident Id - 4842 - Completed by LED Responder 01
+09/20/2022 09:27:14 am - ACCEPT INCIDENT: Incident Id - 5029 - Accept by Fire Responder 02
+09/20/2022 09:29:53 am - ACCEPT INCIDENT: Incident Id - 4798 - Accept by Public Safety Responder 01
+09/20/2022 09:29:57 am - UPDATE INCIDENT: Incident Id - 4798 - In Progress by Public Safety Responder 01
+09/20/2022 09:29:59 am - ACCEPT INCIDENT: Incident Id - 5032 - Accept by Public Safety Responder 01
+09/20/2022 09:30:03 am - ACCEPT INCIDENT: Incident Id - 5031 - Accept by Public Safety Responder 01
+09/20/2022 09:30:06 am - UPDATE INCIDENT: Incident Id - 5031 - In Progress by Public Safety Responder 01
+09/20/2022 09:30:10 am - ACCEPT INCIDENT: Incident Id - 4796 - Accept by Public Safety Responder 01
+09/20/2022 09:30:13 am - UPDATE INCIDENT: Incident Id - 4796 - In Progress by Public Safety Responder 01
+09/20/2022 09:30:29 am - ACCEPT INCIDENT: Incident Id - 4833 - Accept by LED Responder 03
+09/20/2022 09:30:34 am - UPDATE INCIDENT: Incident Id - 4833 - In Progress by LED Responder 03
+09/20/2022 09:30:54 am - ACCEPT INCIDENT: Incident Id - 4833 - Accept by LED Responder 02
+09/20/2022 09:31:05 am - ACCEPT INCIDENT: Incident Id - 4819 - Accept by LED Responder 03
+09/20/2022 09:31:07 am - UPDATE INCIDENT: Incident Id - 4819 - In Progress by LED Responder 03
+09/20/2022 09:31:23 am - ACCEPT INCIDENT: Incident Id - 4804 - Accept by LED Responder 03
+09/20/2022 09:31:24 am - ACCEPT INCIDENT: Incident Id - 4810 - Accept by LED Responder 02
+09/20/2022 09:31:28 am - UPDATE INCIDENT: Incident Id - 4810 - In Progress by LED Responder 02
+09/20/2022 09:31:33 am - ACCEPT INCIDENT: Incident Id - 4807 - Accept by LED Responder 02
+09/20/2022 09:31:35 am - UPDATE INCIDENT: Incident Id - 4804 - Completed by LED Responder 03
+09/20/2022 09:31:36 am - UPDATE INCIDENT: Incident Id - 4807 - In Progress by LED Responder 02
+09/20/2022 09:32:16 am - ACCEPT INCIDENT: Incident Id - 4794 - Accept by LED Responder 02
+09/20/2022 09:32:20 am - UPDATE INCIDENT: Incident Id - 4794 - In Progress by LED Responder 02
+09/20/2022 09:32:38 am - ACCEPT INCIDENT: Incident Id - 4794 - Accept by Public Safety Responder 01
+09/20/2022 09:44:43 am - UPDATE INCIDENT: Incident Id - 4840 - Completed by Fire Responder 03
+09/20/2022 09:44:46 am - UPDATE INCIDENT: Incident Id - 5029 - Completed by Fire Responder 02
+09/20/2022 09:45:15 am - UPDATE INCIDENT: Incident Id - 5029 - In Progress by Fire Responder 02
+09/20/2022 09:48:22 am - ACCEPT INCIDENT: Incident Id - 4810 - Accept by LED Responder 01
+09/20/2022 09:48:30 am - ACCEPT INCIDENT: Incident Id - 4742 - Accept by LED Responder 03
+09/20/2022 09:50:07 am - UPDATE INCIDENT: Incident Id - 5029 - Completed by Fire Responder 02
+09/20/2022 09:51:54 am - ACCEPT INCIDENT: Incident Id - 4790 - Accept by LED Responder 01
+09/20/2022 09:52:54 am - UPLOAD FILE: Incident Id - 4790 - Filename - rn_image_picker_lib_temp_1754038b-6924-4e3c-8d3d-3d23bc456341.jpg by LED Responder 01
+09/20/2022 09:52:55 am - UPDATE INCIDENT: Incident Id - 4790 - Completed by LED Responder 01
+09/20/2022 09:58:57 am - ACCEPT INCIDENT: Incident Id - 5066 - Accept by LED Responder 02
+09/20/2022 09:59:40 am - ACCEPT INCIDENT: Incident Id - 5066 - Accept by Fire Responder 02
+09/20/2022 09:59:56 am - UPLOAD FILE: Incident Id - 5066 - Filename - rn_image_picker_lib_temp_d663bb59-7aea-4357-bf5e-cec1770fc814.jpg by LED Responder 02
+09/20/2022 09:59:57 am - UPDATE INCIDENT: Incident Id - 5066 - In Progress by LED Responder 02
+09/20/2022 10:00:48 am - UPDATE INCIDENT: Incident Id - 5066 - Completed by LED Responder 02
+09/20/2022 10:16:46 am - ACCEPT INCIDENT: Incident Id - 4783 - Accept by LED Responder 01
+09/20/2022 10:17:27 am - UPDATE INCIDENT: Incident Id - 4783 - In Progress by LED Responder 01
+09/20/2022 10:17:48 am - ACCEPT INCIDENT: Incident Id - 5060 - Accept by LED Responder 01
+09/20/2022 10:18:15 am - UPLOAD FILE: Incident Id - 5060 - Filename - rn_image_picker_lib_temp_5168c18b-948a-46eb-b468-489206275b3b.jpg by LED Responder 01
+09/20/2022 10:18:16 am - UPDATE INCIDENT: Incident Id - 5060 - Completed by LED Responder 01
+09/20/2022 10:19:21 am - ACCEPT INCIDENT: Incident Id - 5083 - Accept by LED Responder 03
+09/20/2022 10:20:33 am - UPLOAD FILE: Incident Id - 5083 - Filename - rn_image_picker_lib_temp_20a2b86f-31f8-4c9f-906a-b5edf9ef3255.jpg by LED Responder 03
+09/20/2022 10:20:33 am - UPDATE INCIDENT: Incident Id - 5083 - In Progress by LED Responder 03
+09/20/2022 10:23:34 am - ACCEPT INCIDENT: Incident Id - 5090 - Accept by LED Responder 03
+09/20/2022 10:24:36 am - ACCEPT INCIDENT: Incident Id - 5093 - Accept by LED Responder 01
+09/20/2022 10:25:27 am - UPDATE INCIDENT: Incident Id - 5093 - In Progress by LED Responder 01
+09/20/2022 10:27:36 am - UPLOAD FILE: Incident Id - 5093 - Filename - rn_image_picker_lib_temp_b890b1c1-dd56-4160-bdae-59e731c10b81.jpg by LED Responder 01
+09/20/2022 10:27:37 am - UPDATE INCIDENT: Incident Id - 5093 - In Progress by LED Responder 01
+09/20/2022 10:27:55 am - UPDATE INCIDENT: Incident Id - 5093 - Completed by LED Responder 01
+09/20/2022 10:33:36 am - ACCEPT INCIDENT: Incident Id - 5103 - Accept by LED Responder 03
+09/20/2022 10:38:57 am - ACCEPT INCIDENT: Incident Id - 5105 - Accept by LED Responder 03
+09/20/2022 10:42:32 am - ACCEPT INCIDENT: Incident Id - 5108 - Accept by LED Responder 03
+09/20/2022 10:42:51 am - ACCEPT INCIDENT: Incident Id - 5102 - Accept by LED Responder 01
+09/20/2022 10:44:53 am - UPLOAD FILE: Incident Id - 5102 - Filename - rn_image_picker_lib_temp_bea3b611-88ed-4b69-8b1f-bbe4db29be58.jpg by LED Responder 01
+09/20/2022 10:44:54 am - UPDATE INCIDENT: Incident Id - 5102 - In Progress by LED Responder 01
+09/20/2022 10:48:21 am - ACCEPT INCIDENT: Incident Id - 5115 - Accept by Fire Responder 01
+09/20/2022 10:48:34 am - ACCEPT INCIDENT: Incident Id - 5074 - Accept by LED Responder 03
+09/20/2022 10:49:04 am - UPDATE INCIDENT: Incident Id - 5115 - Completed by Fire Responder 01
+09/20/2022 10:56:10 am - ACCEPT INCIDENT: Incident Id - 5120 - Accept by LED Responder 03
+09/20/2022 10:56:27 am - ACCEPT INCIDENT: Incident Id - 4778 - Accept by LED Responder 03
+09/20/2022 10:57:05 am - ACCEPT INCIDENT: Incident Id - 4774 - Accept by LED Responder 03
+09/20/2022 10:57:29 am - ACCEPT INCIDENT: Incident Id - 4769 - Accept by LED Responder 03
+09/20/2022 10:57:52 am - ACCEPT INCIDENT: Incident Id - 4765 - Accept by LED Responder 03
+09/20/2022 10:58:16 am - ACCEPT INCIDENT: Incident Id - 4762 - Accept by LED Responder 03
+09/20/2022 10:59:26 am - ACCEPT INCIDENT: Incident Id - 4788 - Accept by LED Responder 03
+09/20/2022 11:08:54 am - ACCEPT INCIDENT: Incident Id - 5131 - Accept by LED Responder 01
+09/20/2022 11:09:06 am - UPDATE INCIDENT: Incident Id - 5131 - In Progress by LED Responder 01
+09/20/2022 11:12:14 am - ACCEPT INCIDENT: Incident Id - 4773 - Accept by LED Responder 01
+09/20/2022 11:12:22 am - ACCEPT INCIDENT: Incident Id - 5134 - Accept by LED Responder 01
+09/20/2022 11:12:28 am - UPDATE INCIDENT: Incident Id - 5134 - In Progress by LED Responder 01
+09/20/2022 11:12:34 am - ACCEPT INCIDENT: Incident Id - 5138 - Accept by LED Responder 01
+09/20/2022 11:12:38 am - UPDATE INCIDENT: Incident Id - 5138 - In Progress by LED Responder 01
+09/20/2022 11:20:13 am - ACCEPT INCIDENT: Incident Id - 5145 - Accept by LED Responder 01
+09/20/2022 11:40:51 am - ACCEPT INCIDENT: Incident Id - 5150 - Accept by LED Responder 01
+09/20/2022 11:41:05 am - UPDATE INCIDENT: Incident Id - 5150 - Completed by LED Responder 01
+09/20/2022 02:08:09 pm - ACCEPT INCIDENT: Incident Id - 5149 - Accept by LED Responder 01
+09/20/2022 02:09:36 pm - ACCEPT INCIDENT: Incident Id - 5162 - Accept by Public Safety Responder 01
+09/20/2022 02:11:09 pm - UPLOAD FILE: Incident Id - 5149 - Filename - rn_image_picker_lib_temp_5ebe0e79-7305-49f2-9812-06bd891e3093.jpg by LED Responder 01
+09/20/2022 02:11:10 pm - UPDATE INCIDENT: Incident Id - 5149 - In Progress by LED Responder 01
+09/20/2022 02:13:14 pm - ACCEPT INCIDENT: Incident Id - 5161 - Accept by LED Responder 01
+09/20/2022 02:13:17 pm - UPDATE INCIDENT: Incident Id - 5161 - In Progress by LED Responder 01
+09/20/2022 02:13:24 pm - ACCEPT INCIDENT: Incident Id - 5160 - Accept by LED Responder 01
+09/20/2022 02:13:45 pm - UPLOAD FILE: Incident Id - 5160 - Filename - rn_image_picker_lib_temp_5dfca492-4976-4b4c-af21-ac3346198d4d.jpg by LED Responder 01
+09/20/2022 02:13:45 pm - UPDATE INCIDENT: Incident Id - 5160 - In Progress by LED Responder 01
+09/20/2022 02:16:34 pm - ACCEPT INCIDENT: Incident Id - 4748 - Accept by LED Responder 01
+09/27/2022 04:36:51 pm - LOGIN: Responder Id - 1670 Mark Santos
+09/27/2022 04:37:42 pm - UPDATE INCIDENT: Incident Id - 5202 - Completed by Mark Santos
+09/27/2022 04:39:13 pm - UPDATE INCIDENT: Incident Id - 5202 - Completed by Mark Santos
+09/27/2022 04:44:21 pm - UPDATE INCIDENT: Incident Id - 5202 - Completed by Mark Santos
+09/27/2022 04:58:53 pm - UPDATE INCIDENT: Incident Id - 5150 - Completed by Mark Santos
+09/27/2022 04:59:27 pm - UPDATE INCIDENT: Incident Id - 5150 - Completed by Mark Santos
+09/28/2022 11:16:45 am - ACCEPT INCIDENT: Incident Id - 5195 - Accept by Mark Santos
+09/28/2022 11:19:54 am - UPDATE INCIDENT: Incident Id - 5195 - Completed by Mark Santos
+11/16/2022 02:38:38 pm - LOGOUT: Responder Id - 1664 LED Responder 03
+11/16/2022 02:40:58 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+11/16/2022 02:48:32 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+11/16/2022 02:49:01 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+11/16/2022 03:11:00 pm - LOGIN: Responder Id - 1664 LED Responder 03
+11/16/2022 03:12:11 pm - LOGIN: Responder Id - 1331 LED Responder 01
+11/16/2022 03:16:38 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+11/16/2022 03:17:46 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+11/16/2022 03:22:18 pm - LOGIN: Responder Id - 1584 LED Responder 02
+11/16/2022 03:25:42 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+11/17/2022 02:02:12 pm - ACCEPT INCIDENT: Incident Id - 5663 - Accept by LED Responder 01
+11/17/2022 02:10:12 pm - LOGIN: Responder Id - 1584 LED Responder 02
+11/17/2022 02:12:24 pm - UPDATE INCIDENT: Incident Id - 5663 - In Progress by LED Responder 01
+11/17/2022 02:38:36 pm - ACCEPT INCIDENT: Incident Id - 5675 - Accept by LED Responder 03
+11/17/2022 02:38:36 pm - ACCEPT INCIDENT: Incident Id - 5675 - Accept by LED Responder 02
+11/17/2022 03:18:55 pm - UPDATE INCIDENT: Incident Id - 5675 - Completed by LED Responder 01
+11/18/2022 03:59:05 pm - ACCEPT INCIDENT: Incident Id - 5680 - Accept by LED Responder 01
+11/18/2022 04:26:10 pm - UPDATE INCIDENT: Incident Id - 5680 - In Progress by LED Responder 01
+11/18/2022 04:48:44 pm - UPDATE INCIDENT: Incident Id - 5680 - Completed by LED Responder 01
+11/18/2022 04:49:05 pm - ACCEPT INCIDENT: Incident Id - 5686 - Accept by LED Responder 01
+11/18/2022 05:12:19 pm - UPDATE INCIDENT: Incident Id - 5686 - Completed by LED Responder 01
+11/20/2022 05:05:55 pm - UPLOAD FILE: Incident Id - 5704 - Filename - rn_image_picker_lib_temp_35b5a629-ae0f-4816-90b0-5229d3636c69.jpg by Fire Responder 02
+11/20/2022 05:05:55 pm - UPLOAD FILE: Incident Id - 5704 - Filename - rn_image_picker_lib_temp_32697504-e3e6-4fd2-a161-5550a32dd4f1.jpg by Fire Responder 02
+11/20/2022 05:05:56 pm - UPLOAD FILE: Incident Id - 5704 - Filename - rn_image_picker_lib_temp_24f1aeed-f737-4f51-bebd-b0e09883b427.jpg by Fire Responder 02
+11/20/2022 05:05:56 pm - UPDATE INCIDENT: Incident Id - 5704 - Completed by Fire Responder 02
+11/21/2022 06:36:55 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+11/23/2022 05:06:50 pm - ACCEPT INCIDENT: Incident Id - 5724 - Accept by LED Responder 01
+11/23/2022 05:26:39 pm - UPDATE INCIDENT: Incident Id - 5724 - In Progress by LED Responder 01
+11/28/2022 02:55:03 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+11/28/2022 02:55:45 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+11/28/2022 02:59:44 pm - ACCEPT INCIDENT: Incident Id - 5765 - Accept by Public Safety Responder 03
+11/28/2022 03:06:26 pm - UPDATE INCIDENT: Incident Id - 5765 - Completed by Public Safety Responder 02
+11/28/2022 03:07:02 pm - UPLOAD FILE: Incident Id - 5765 - Filename - rn_image_picker_lib_temp_3dd9c1b6-a110-4295-ba40-c148e391d664.mp4 by Public Safety Responder 03
+11/28/2022 03:07:09 pm - UPDATE INCIDENT: Incident Id - 5765 - In Progress by Public Safety Responder 03
+11/28/2022 03:49:08 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+11/28/2022 03:56:12 pm - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+11/28/2022 04:01:36 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+11/28/2022 04:02:31 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+11/28/2022 04:03:43 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+11/28/2022 04:47:36 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+11/28/2022 04:49:48 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+11/29/2022 08:24:58 am - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+11/29/2022 08:25:29 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+12/03/2022 06:44:12 pm - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+12/03/2022 06:49:40 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+12/03/2022 09:06:37 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+12/10/2022 02:34:19 pm - ACCEPT INCIDENT: Incident Id - 5863 - Accept by Fire Responder 02
+12/10/2022 02:40:25 pm - ACCEPT INCIDENT: Incident Id - 5874 - Accept by Fire Responder 02
+12/10/2022 02:42:19 pm - UPLOAD FILE: Incident Id - 5874 - Filename - rn_image_picker_lib_temp_94c18a9e-8925-4f0d-b223-8b03bac35f7d.jpg by Fire Responder 02
+12/10/2022 02:42:19 pm - UPLOAD FILE: Incident Id - 5874 - Filename - rn_image_picker_lib_temp_efbc5f96-2c4a-4de5-935b-b5e471a2b847.jpg by Fire Responder 02
+12/10/2022 02:42:19 pm - UPLOAD FILE: Incident Id - 5874 - Filename - rn_image_picker_lib_temp_ab7c742b-c2b6-4451-a3a1-fa042a6ecf97.jpg by Fire Responder 02
+12/10/2022 02:42:19 pm - UPLOAD FILE: Incident Id - 5874 - Filename - rn_image_picker_lib_temp_27f0db3b-2310-4af7-bc39-5d18acfdaefe.jpg by Fire Responder 02
+12/10/2022 02:42:20 pm - UPDATE INCIDENT: Incident Id - 5874 - In Progress by Fire Responder 02
+12/10/2022 03:07:02 pm - UPLOAD FILE: Incident Id - 5874 - Filename - rn_image_picker_lib_temp_c9b9bbd1-c1c8-4c7e-9ae8-7043991131a3.jpg by Fire Responder 02
+12/10/2022 03:07:03 pm - UPDATE INCIDENT: Incident Id - 5874 - Completed by Fire Responder 02
+12/18/2022 09:35:24 am - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+12/18/2022 12:56:11 pm - LOGIN: Responder Id - 1667 Public Safety Responder 03
+12/19/2022 06:50:35 am - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+12/19/2022 07:15:37 am - LOGIN: Responder Id - 1332 Public Safety Responder 01
+12/29/2022 06:23:43 am - LOGOUT: Responder Id - 1659 Public Safety Responder 02
+01/07/2023 01:55:26 pm - LOGIN: Responder Id - 1659 Public Safety Responder 02
+01/22/2023 09:15:31 am - LOGOUT: Responder Id - 1667 Public Safety Responder 03
+01/30/2023 07:15:06 am - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+02/06/2023 10:47:50 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+02/06/2023 10:48:44 am - LOGIN: Responder Id - 1332 Public Safety Responder 01
+02/06/2023 11:54:02 am - LOGIN: Responder Id - 1659 Public Safety Responder 02
+03/08/2023 09:46:55 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+03/26/2023 09:39:23 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+03/26/2023 09:51:35 am - UPDATE INCIDENT: Incident Id - 296186 - Completed by Public Safety Responder 03
+03/27/2023 07:14:12 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+03/28/2023 10:13:19 am - LOGOUT: Responder Id - 1670 Mark Santos
+04/25/2023 01:08:36 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+04/25/2023 01:16:15 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+04/27/2023 08:53:11 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+04/27/2023 09:00:47 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+04/28/2023 07:19:27 am - LOGIN: Responder Id - 1660 Fire Responder 03
+04/28/2023 09:25:07 am - ACCEPT INCIDENT: Incident Id - 408663 - Accept by Public Safety Responder 02
+04/28/2023 09:25:55 am - UPDATE INCIDENT: Incident Id - 408663 - In Progress by Public Safety Responder 02
+04/28/2023 09:27:30 am - UPDATE INCIDENT: Incident Id - 408663 - In Progress by Public Safety Responder 02
+04/28/2023 09:28:03 am - UPDATE INCIDENT: Incident Id - 408663 - Completed by Public Safety Responder 02
+04/28/2023 09:30:03 am - ACCEPT INCIDENT: Incident Id - 408668 - Accept by Public Safety Responder 02
+04/28/2023 09:30:23 am - UPDATE INCIDENT: Incident Id - 408668 - In Progress by Public Safety Responder 02
+04/28/2023 09:30:55 am - UPDATE INCIDENT: Incident Id - 408668 - Completed by Public Safety Responder 02
+04/28/2023 11:12:24 am - LOGIN: Responder Id - 1660 Fire Responder 03
+04/28/2023 01:44:44 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+04/28/2023 01:46:48 pm - LOGIN: Responder Id - 1331 LED Responder 01
+04/28/2023 01:50:07 pm - LOGIN: Responder Id - 1331 LED Responder 01
+04/28/2023 01:54:52 pm - LOGIN: Responder Id - 1664 LED Responder 03
+04/28/2023 01:56:17 pm - ACCEPT INCIDENT: Incident Id - 408980 - Accept by LED Responder 02
+04/28/2023 01:57:18 pm - UPDATE INCIDENT: Incident Id - 408980 - In Progress by LED Responder 02
+04/28/2023 01:58:58 pm - UPDATE INCIDENT: Incident Id - 408980 - Completed by LED Responder 02
+04/28/2023 01:59:54 pm - UPLOAD FILE: Incident Id - 99295 - Filename - rn_image_picker_lib_temp_e0e7cb7b-ec5e-458c-8f90-53cf279fbd3c.jpg by LED Responder 02
+04/28/2023 01:59:55 pm - UPDATE INCIDENT: Incident Id - 99295 - Completed by LED Responder 02
+04/28/2023 02:01:03 pm - UPLOAD FILE: Incident Id - 99295 - Filename - rn_image_picker_lib_temp_0c3e65e7-e612-4865-a32f-bea5daa3c2e3.jpg by LED Responder 02
+04/28/2023 02:01:04 pm - UPDATE INCIDENT: Incident Id - 99295 - Completed by LED Responder 02
+04/28/2023 02:06:33 pm - ACCEPT INCIDENT: Incident Id - 409023 - Accept by LED Responder 01
+04/28/2023 02:07:31 pm - UPDATE INCIDENT: Incident Id - 409023 - In Progress by LED Responder 01
+04/28/2023 02:07:52 pm - UPDATE INCIDENT: Incident Id - 99295 - Completed by LED Responder 01
+04/28/2023 02:09:44 pm - UPLOAD FILE: Incident Id - 409023 - Filename - rn_image_picker_lib_temp_0107274f-e779-4cf9-9328-170903f415ac.jpg by LED Responder 01
+04/28/2023 02:09:45 pm - UPDATE INCIDENT: Incident Id - 409023 - Completed by LED Responder 01
+04/28/2023 02:11:27 pm - LOGOUT: Responder Id - 1664 LED Responder 03
+04/28/2023 02:12:00 pm - LOGIN: Responder Id - 1330 Fire Responder 01
+04/28/2023 02:15:36 pm - LOGIN: Responder Id - 1664 LED Responder 03
+04/28/2023 02:17:16 pm - ACCEPT INCIDENT: Incident Id - 409066 - Accept by LED Responder 03
+04/28/2023 02:17:57 pm - UPDATE INCIDENT: Incident Id - 409066 - In Progress by LED Responder 03
+04/28/2023 02:19:02 pm - UPLOAD FILE: Incident Id - 409066 - Filename - rn_image_picker_lib_temp_e987c734-b01a-4f14-9126-91333f4a8e1e.jpg by LED Responder 03
+04/28/2023 02:19:02 pm - UPDATE INCIDENT: Incident Id - 409066 - Completed by LED Responder 03
+04/28/2023 02:26:07 pm - ACCEPT INCIDENT: Incident Id - 409111 - Accept by Fire Responder 02
+04/28/2023 02:27:06 pm - UPDATE INCIDENT: Incident Id - 409111 - In Progress by Fire Responder 02
+04/28/2023 02:29:05 pm - UPLOAD FILE: Incident Id - 409111 - Filename - rn_image_picker_lib_temp_2ddf0238-ee2e-45de-a1ec-aff5c6753982.jpg by Fire Responder 02
+04/28/2023 02:29:06 pm - UPDATE INCIDENT: Incident Id - 409111 - In Progress by Fire Responder 02
+04/28/2023 02:30:02 pm - UPLOAD FILE: Incident Id - 409111 - Filename - rn_image_picker_lib_temp_e28f768b-8c89-4f1b-877f-20549014ad52.jpg by Fire Responder 02
+04/28/2023 02:30:02 pm - UPDATE INCIDENT: Incident Id - 409111 - Completed by Fire Responder 02
+04/28/2023 02:35:26 pm - ACCEPT INCIDENT: Incident Id - 409161 - Accept by Fire Responder 01
+04/28/2023 02:36:05 pm - UPLOAD FILE: Incident Id - 409161 - Filename - rn_image_picker_lib_temp_5e270cb7-6b11-4b4e-95ad-9aa877b73f25.jpg by Fire Responder 01
+04/28/2023 02:36:05 pm - UPDATE INCIDENT: Incident Id - 409161 - In Progress by Fire Responder 01
+04/28/2023 02:37:21 pm - UPLOAD FILE: Incident Id - 409161 - Filename - rn_image_picker_lib_temp_b088ab82-38a6-433d-a6c7-f9567f17f2a4.jpg by Fire Responder 01
+04/28/2023 02:37:22 pm - UPDATE INCIDENT: Incident Id - 409161 - Completed by Fire Responder 01
+04/28/2023 02:39:26 pm - ACCEPT INCIDENT: Incident Id - 409171 - Accept by Fire Responder 02
+04/28/2023 02:39:54 pm - UPDATE INCIDENT: Incident Id - 409171 - In Progress by Fire Responder 02
+04/28/2023 02:40:46 pm - UPLOAD FILE: Incident Id - 409171 - Filename - rn_image_picker_lib_temp_39232ce4-4507-4dc7-b7a7-061abb7853ce.jpg by Fire Responder 02
+04/28/2023 02:40:46 pm - UPDATE INCIDENT: Incident Id - 409171 - In Progress by Fire Responder 02
+04/28/2023 02:41:18 pm - UPLOAD FILE: Incident Id - 409171 - Filename - rn_image_picker_lib_temp_a0016307-a2cf-445d-81ca-5849d54fa8e5.jpg by Fire Responder 02
+04/28/2023 02:41:18 pm - UPDATE INCIDENT: Incident Id - 409171 - Completed by Fire Responder 02
+04/28/2023 03:02:34 pm - ACCEPT INCIDENT: Incident Id - 409160 - Accept by LED Responder 03
+05/05/2023 01:36:32 pm - ACCEPT INCIDENT: Incident Id - 409160 - Accept by LED Responder 01
+05/07/2023 08:58:13 am - UPDATE INCIDENT: Incident Id - 436899 - Completed by Fire Responder 02
+05/07/2023 09:55:50 am - UPLOAD FILE: Incident Id - 436899 - Filename - rn_image_picker_lib_temp_486e77da-1d48-4643-a391-57b000d43929.jpg by Fire Responder 02
+05/07/2023 09:55:51 am - UPDATE INCIDENT: Incident Id - 436899 - Completed by Fire Responder 02
+05/08/2023 03:21:25 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+05/08/2023 03:58:29 pm - LOGOUT: Responder Id - 1584 LED Responder 02
+05/09/2023 07:17:13 am - LOGOUT: Responder Id - 1660 Fire Responder 03
+05/09/2023 07:18:29 am - LOGIN: Responder Id - 1660 Fire Responder 03
+05/09/2023 09:10:55 pm - LOGOUT: Responder Id - 1660 Fire Responder 03
+05/11/2023 04:41:28 pm - LOGIN: Responder Id - 1660 Fire Responder 03
+05/13/2023 11:16:48 am - LOGIN: Responder Id - 1667 Public Safety Responder 03
+05/22/2023 03:25:08 pm - LOGIN: Responder Id - 1331 LED Responder 01
+06/03/2023 05:07:08 am - UPLOAD FILE: Incident Id - 539245 - Filename - rn_image_picker_lib_temp_050b9207-e59f-4f5e-993f-82c99a7c4ca4.jpg by Fire Responder 02
+06/03/2023 05:07:08 am - UPLOAD FILE: Incident Id - 539245 - Filename - rn_image_picker_lib_temp_4f5239fe-8b91-4a7e-9e2c-f1ee78042552.jpg by Fire Responder 02
+06/03/2023 05:07:08 am - UPLOAD FILE: Incident Id - 539245 - Filename - rn_image_picker_lib_temp_c24b795f-a6b7-44bd-a545-3a0b703a9b1c.jpg by Fire Responder 02
+06/03/2023 05:07:09 am - UPDATE INCIDENT: Incident Id - 539245 - Completed by Fire Responder 02
+06/30/2023 06:14:30 pm - LOGIN: Responder Id - 1584 LED Responder 02
+07/01/2023 09:47:37 pm - ACCEPT INCIDENT: Incident Id - 637769 - Accept by LED Responder 01
+07/03/2023 08:50:31 am - LOGOUT: Responder Id - 1584 LED Responder 02
+07/03/2023 09:01:51 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/03/2023 09:02:38 pm - UPLOAD FILE: Incident Id - 95570 - Filename - rn_image_picker_lib_temp_c148e39b-6d10-4e40-95fe-09a45e259aac.jpg by Public Safety Responder 01
+07/03/2023 09:02:39 pm - UPDATE INCIDENT: Incident Id - 95570 - Completed by Public Safety Responder 01
+07/04/2023 01:38:05 pm - ACCEPT INCIDENT: Incident Id - 647114 - Accept by Public Safety Responder 01
+07/04/2023 01:38:09 pm - UPDATE INCIDENT: Incident Id - 647114 - Completed by Public Safety Responder 01
+07/04/2023 03:13:15 pm - ACCEPT INCIDENT: Incident Id - 647528 - Accept by Public Safety Responder 01
+07/04/2023 03:14:41 pm - UPLOAD FILE: Incident Id - 647528 - Filename - rn_image_picker_lib_temp_e1c11ff5-3e9e-4120-9c90-5667e3195bf1.jpg by Public Safety Responder 01
+07/04/2023 03:14:41 pm - UPDATE INCIDENT: Incident Id - 647528 - Completed by Public Safety Responder 01
+07/04/2023 06:45:45 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/12/2023 03:59:01 pm - LOGIN: Responder Id - 1664 LED Responder 03
+07/14/2023 05:33:16 pm - LOGIN: Responder Id - 1332 Public Safety Responder 01
+07/14/2023 05:34:06 pm - UPLOAD FILE: Incident Id - 95570 - Filename - rn_image_picker_lib_temp_e7a72207-2e3d-4d13-a957-a8b8d294a085.jpg by Public Safety Responder 01
+07/14/2023 05:34:07 pm - UPDATE INCIDENT: Incident Id - 95570 - Completed by Public Safety Responder 01
+07/14/2023 05:35:10 pm - UPLOAD FILE: Incident Id - 95570 - Filename - rn_image_picker_lib_temp_5816c217-9a89-477d-8b7b-08ce9dbd7742.jpg by Public Safety Responder 01
+07/14/2023 05:35:11 pm - UPDATE INCIDENT: Incident Id - 95570 - Completed by Public Safety Responder 01
+07/14/2023 07:09:07 pm - LOGIN: Responder Id - 1331 LED Responder 01
+07/14/2023 07:09:44 pm - UPLOAD FILE: Incident Id - 99295 - Filename - rn_image_picker_lib_temp_982827d4-2f42-4fe4-8b97-cb7b6cfcc975.jpg by LED Responder 01
+07/14/2023 07:09:44 pm - UPDATE INCIDENT: Incident Id - 99295 - Completed by LED Responder 01
+07/14/2023 07:10:20 pm - UPLOAD FILE: Incident Id - 98921 - Filename - rn_image_picker_lib_temp_064a039c-c274-49e5-9fd0-6479c768bd29.jpg by LED Responder 01
+07/14/2023 07:10:20 pm - UPDATE INCIDENT: Incident Id - 98921 - Completed by LED Responder 01
+07/14/2023 07:12:43 pm - LOGOUT: Responder Id - 1332 Public Safety Responder 01
+07/14/2023 07:21:38 pm - LOGOUT: Responder Id - 1331 LED Responder 01

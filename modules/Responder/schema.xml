@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_responder</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_responder` (`responderid` int(11) NOT NULL, `responderno` varchar(100) default NULL, `responder_tks_username` varchar(200) default NULL ,`responder_tks_password` varchar(200) default NULL ,`responder_tks_respondertype` varchar(100) default NULL ,`responder_tks_firstname` varchar(200) default NULL ,`responder_tks_lastname` varchar(200) default NULL ,`responder_tks_emailaddress` varchar(100) default NULL ,`responder_tks_contactno` varchar(100) default NULL   , PRIMARY KEY (`responderid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_respondercf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_respondercf` (`responderid` int(11) NOT NULL, PRIMARY KEY (`responderid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_responder_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_responder_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_responder_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

@@ -1,0 +1,33 @@
+<?php
+date_default_timezone_set("Asia/Manila");
+require_once('include/utils/utils.php');
+require_once("config.php");
+
+
+global $adb;
+
+$query = "SELECT vc.createdtime , b.cf_941 , a.ticketid   
+FROM `vtiger_troubletickets` as a 
+JOIN vtiger_ticketcf as b ON a.ticketid = b.ticketid
+LEFT JOIN vtiger_ticketstatus as c ON a.status = ticketstatus
+LEFT JOIN vtiger_crmentity vc ON a.ticketid = vc.crmid
+WHERE vc.deleted = 0 AND a.status != 'Completed'";
+
+$tickets = $adb->pquery($query, array());
+
+for ($x = 0; $x < $adb->num_rows($tickets); $x++) {
+    
+    $createdtime    = $adb->query_result($tickets,$x,"createdtime");
+    $slahrs         = $adb->query_result($tickets,$x,"cf_941");
+    $ticketid       = $adb->query_result($tickets,$x,"ticketid");
+
+    $currentdate    = strtotime(date('Y-m-d H:i:s'));
+    $createddate    = strtotime($createdtime) + 60 * 60 * $slahrs;
+
+    if ($currentdate > $createddate) {
+        $adb->pquery("UPDATE vtiger_ticketcf SET cf_939 = ? WHERE ticketid = ?", array("Overdue",$ticketid));
+    }
+}
+
+
+?>

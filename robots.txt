@@ -1,0 +1,9 @@
+# ------------------------------------------
+# Bayan911. -- https://www.bayan911.com
+# Robot Exclusion File -- robots.txt
+# Author:  Microbiz One Inc
+# Last Updated:  17/11/06 
+# ------------------------------------------
+
+User-agent: *
+Disallow: /

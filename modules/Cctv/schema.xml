@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_cctv</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_cctv` (`cctvid` int(11) NOT NULL, `cctvno` varchar(100) default NULL, `cctv_tks_name` varchar(100) default NULL ,`cctv_tks_longitude` varchar(200) default NULL ,`cctv_tks_latitude` varchar(200) default NULL ,`cctv_tks_status` varchar(100) default NULL ,`cctv_tks_ipaddress` varchar(100) default NULL   , PRIMARY KEY (`cctvid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_cctvcf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_cctvcf` (`cctvid` int(11) NOT NULL, PRIMARY KEY (`cctvid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_cctv_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_cctv_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_cctv_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

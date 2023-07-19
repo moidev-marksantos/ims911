@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_responderlogs</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_responderlogs` (`responderlogsid` int(11) NOT NULL, `responderlogsno` varchar(100) default NULL, `responderlogs_tks_responder` varchar(200) default NULL ,`responderlogs_tks_status` varchar(100) default NULL ,`responderlogs_tks_remarks` varchar(250) default NULL ,`responderlogs_tks_incident` varchar(200) default NULL   , PRIMARY KEY (`responderlogsid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_responderlogscf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_responderlogscf` (`responderlogsid` int(11) NOT NULL, PRIMARY KEY (`responderlogsid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_responderlogs_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_responderlogs_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_responderlogs_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

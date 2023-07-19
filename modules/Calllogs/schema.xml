@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_calllogs</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_calllogs` (`calllogsid` int(11) NOT NULL, `calllogsno` varchar(100) default NULL, `calllogs_tks_dateandtime` date default NULL ,`calllogs_tks_timeanswered` date default NULL ,`calllogs_tks_timeend` date default NULL ,`calllogs_tks_duration` varchar(200) default NULL ,`calllogs_tks_fromno` varchar(200) default NULL ,`calllogs_tks_tono` varchar(200) default NULL   , PRIMARY KEY (`calllogsid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_calllogscf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_calllogscf` (`calllogsid` int(11) NOT NULL, PRIMARY KEY (`calllogsid`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_calllogs_user_field</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_calllogs_user_field` (`recordid` int(25) NOT NULL, `userid` int(25) NOT NULL, `starred` varchar(100) default NULL , KEY (`vtiger_calllogs_user_field`) ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>

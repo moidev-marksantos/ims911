@@ -1,0 +1,99 @@
+.modal-header{
+    color: #616161;
+}
+.global-nav {
+    position: relative;
+    height: 62px !important;
+    padding-top: 9px;
+}
+
+.btnmicro{
+    margin-top: 0px;
+    height: 41px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-radius: 0px;
+    font-weight: bold;
+    background-color: #032e61;
+    color: #fff;
+    text-shadow: none;
+}
+
+@media (min-width: 992px) {
+    .global-nav .logo-container {
+        display: inline-block;
+        width: 150px;
+        z-index: 2;
+        padding-left: 6%;
+        margin-top: 1px;
+    }
+
+    .app-nav .module-action-bar {
+        padding-left: 12px;
+        top: 0px;
+        padding-right: 0;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        position: absolute;
+        width: 100%;
+        height: 42px;
+        border-bottom: none;
+        background-color: #fff;
+        border-top: none;
+        border-bottom: 1px solid #eee;
+        box-shadow: 0 4px 2px -2px rgba(128, 128, 128, 0.22);
+    }
+
+    .app-nav .module-action-bar .module-action-content {
+        background: transparent;
+        height: 41px;
+    }
+
+    .app-nav .module-action-bar .module-action-content .navbar-right {
+        margin-right: 0;
+    }
+
+    .main-container .sidebar-essentials {
+        display: inline-block;
+        width: 230px;
+        z-index: 1;
+        position: absolute;
+        bottom: 0;
+        top: 0px;
+        left: 42px;
+        min-height: 100%;
+        background: #FFFFFF;
+        border-top: 1px solid #DDDDDD;
+    }
+
+    .main-container #listViewContent {
+
+        /*padding-left: 230px;  svv*/
+        padding-top: 45px;
+        min-height: 768px;
+    }
+
+    .main-container .content-area {
+        width: 100%;
+        padding-left: 50px;
+        padding-top: 0px;
+        min-height: 768px;
+    }
+
+    .main-container .CalendarViewPageDiv .content-area {
+        padding-left: 230px;
+    }
+
+    .main-container .settingsPageDiv {
+        min-height: 768px;
+        padding-left: 230px;
+    }
+
+    .main-container .settingsNav {
+        height: 100%;
+    }
+
+    .app-nav .module-action-bar-full {
+        padding-left: 0;
+    }
+}
