@@ -11,7 +11,7 @@
 {strip}
 	<style>
 		body {
-			background: url(test/background/sbma-bg.jpg);
+			background: url(test/background/background.jpg);
 			background-position: center;
 			background-size: cover;
 			width: 100%;
@@ -207,7 +207,7 @@
 	<div class="container-fluid loginPageContainer">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 			<div class="loginDiv widgetHeight">
-				<img class="img-responsive user-logo" src="test/logo/sbma.png">
+				<img class="img-responsive user-logo" src="test/logo/bayan911-logo-1.png">
 				<div>
 					<span class="{if !$ERROR}hide{/if} failureMessage" id="validationMessage">{$MESSAGE}</span>
 					<span class="{if !$MAIL_STATUS}hide{/if} successMessage">{$MESSAGE}</span>

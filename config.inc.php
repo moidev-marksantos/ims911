@@ -46,9 +46,9 @@ $HELPDESK_SUPPORT_EMAIL_REPLY_ID = $HELPDESK_SUPPORT_EMAIL_ID;
 
 $dbconfig['db_server'] = 'localhost';
 $dbconfig['db_port'] = ':3306';
-$dbconfig['db_username'] = 'root';
-$dbconfig['db_password'] = 'KL9KW7]5o-0iRfwQ';
-$dbconfig['db_name'] = 'sbmaserver';
+$dbconfig['db_username'] = 'bayakfbx_bayakfbx';
+$dbconfig['db_password'] = 'Microbizone1#';
+$dbconfig['db_name'] = 'bayakfbx_ims911';
 $dbconfig['db_type'] = 'mysqli';
 $dbconfig['db_status'] = 'true';
 
@@ -78,53 +78,12 @@ $dbconfigoption['portability'] = 0;
 $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
-
-
-if($_SERVER['REMOTE_ADDR'] === '122.52.231.165'){
-	$site_URL = 'http://124.105.63.203:8080/'; //FIRE
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '124.105.63.215'){
-	$site_URL = 'http://124.105.63.203:8080/'; //LED
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '136.158.34.185'){
-	$site_URL = 'http://124.105.63.203:8080/'; //MAM JESSI
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '122.54.94.190'){
-	$site_URL = 'http://124.105.63.203:8080/'; //MICROBIZ
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '122.52.231.159'){
-	$site_URL = 'http://124.105.63.203:8080/'; //PUBLIC HEALTH
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '124.105.63.203'){
-	$site_URL = 'http://124.105.63.203:8080/'; //COMMAND CENTER
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '130.105.224.127'){
-	$site_URL = 'http://124.105.63.203:8080/'; //COMMAND CENTER
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '130.105.215.172'){
-	$site_URL = 'http://124.105.63.203:8080/'; //SIR ANTHONY
-}
-elseif ($_SERVER['REMOTE_ADDR'] ===  '172.16.1.101'){
-        $site_URL = 'http://172.16.1.111:8080/'; //wokrstation1
-}
-elseif ($_SERVER['REMOTE_ADDR'] === '172.16.1.102'){
-        $site_URL = 'http://172.16.1.111:8080/'; //wokrstation2
-}
-elseif ($_SERVER['REMOTE_ADDR'] === '172.16.1.103'){
-        $site_URL = 'http://172.16.1.111:8080/'; //wokrstation3
-}
-else{
-	$site_URL = 'http://124.105.63.203:8080/'; //COMMAND CENTER
-}
-
-// else{
-	// $site_URL = 'http://172.16.1.111:8080/';
-// }
-//$site_URL = 'http://124.105.63.203:8080/';
+ 
+$site_URL = 'http://bayan911.com/ims911/';
 
 $PORTAL_URL = $site_URL.'/customerportal';
 // root directory path
-$root_directory = '/opt/lampp/htdocs/bayan911/';
+$root_directory = '/home/bayakfbx/public_html/ims911/';
 
 // cache direcory path
 $cache_dir = 'cache/';
